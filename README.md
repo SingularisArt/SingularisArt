@@ -1,18 +1,3 @@
-🔭 I’m currently working on [dotfiles](https://github.com/SingularisArt/Singularis)
-
-🤔 I’m currently learning a ton of new languages (computer and human) and learning other things here and there
-
-🌱 I’m looking for help with my [dotfiles](https://github.com/SingularisArt/Singularis)
-
-✉️ How to reach me:
-Honestly, there isn't a great deal of ways to reach out to me. Either 
-  hangout me
-  email me at dermdorm2@gmail.com
-
-📔 Updates and Notes
-No new updates
-
-
 - 🔭 I'm currently working on:
  * My [Dotfiles](https://github.com/SingularisArt/Singularis)
  * My [NeoVim Config](https://github.com/SingularisArt/Death.NeoVim)
@@ -35,4 +20,4 @@ No new updates
 
 🗒️ Updates and Notes
 
-- LunarVim lives here now: https://github.com/LunarVim/LunarVim
+- Just published my [Website](https://damrah.netlify.app)
