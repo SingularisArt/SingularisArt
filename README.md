@@ -3,7 +3,7 @@
   - My [NeoVim Config](https://github.com/SingularisArt/Death.NeoVim)
   - My [Website](https://damrah.netlify.app)
 
-- 🌱 I'm currently working on a ton of different things. They are:
+- 🌱 I'm currently learning a ton of different things. They are:
   - Learning new human languages (Spanish, Mandarin, Japanese, Greek, Latin)
   - Learning new computer languages (C#, MongoDB, TS, Docker, Java, Rust, Ruby, Php)
   - Blockchain
