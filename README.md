@@ -17,5 +17,5 @@
   - 📧 Email me (dermdorm2@gmail.com)
   - Checkout my [Website](https://damrah.netlify.app)
 
--🗒️ Updates and Notes
+- 🗒️ Updates and Notes
   - Just published my [Website](https://damrah.netlify.app)
