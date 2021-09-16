@@ -38,13 +38,9 @@
   - Blockchain
   - My [Website](https://damrah.netlify.app)
 
-- 🤔 I'm looking for help on:
-  - My [Dotfiles](https://github.com/SingularisArt/Singularis)
-  - My [NeoVim Config](https://github.com/SingularisArt/Death.NeoVim)
-
 - 📫 How to reach me:
   - 📧 Email me (dermdorm2@gmail.com)
   - Checkout my [Website](https://damrah.netlify.app)
 
 - 🗒️ Updates and Notes
-  - Just published my [Website](https://damrah.netlify.app)
+  - Just published my [Website](https://damrah.netlify.app) <div align="right">(September 5, 2021 (05:09 AM)</div>
