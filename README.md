@@ -24,7 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-  <img width="700" align='center' src="https://imgur.com/a/Z7EAriE"></a>
+  <img width="700" align='center' src="desktop.png"></a>
 </p>
 
 - 🔭 I'm currently working on:
