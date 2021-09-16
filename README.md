@@ -44,3 +44,4 @@
 
 - 🗒️ Updates and Notes
   - Just published my [Website](https://damrah.netlify.app) <div align="right">(September 5, 2021 (05:09 AM)</div>
+  - Updated my README.md <div align="right">(September 15, 2021 (05:40 PM)</div>
