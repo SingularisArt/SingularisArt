@@ -20,7 +20,7 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [How I'm able to take notes with LaTeX in mathematics class](https://damrah.netlify.app/how-im-able-to-take-notes-with-latex-in-mathematics-class/)
+- [How I'm able to take notes with LaTeX in mathematics class](https://damrah.netlify.app/post/how-im-able-to-take-notes-with-latex-in-mathematics-class/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
