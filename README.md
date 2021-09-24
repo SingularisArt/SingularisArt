@@ -40,7 +40,7 @@
 
 - 📫 How to reach me:
   - 📧 Email me (dermdorm2@gmail.com)
-  - Checkout my [Website](https://damrah.netlify.app)
+  - Contact me through my [website](https://damrah.netlify.app/contact/)
 
 - 🗒️ Updates and Notes
   - Just published my [Website](https://damrah.netlify.app) <div align="right">(September 5, 2021 (05:09 AM)</div>
