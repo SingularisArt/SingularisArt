@@ -43,7 +43,6 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I'm able to take notes with LaTeX in math class](https://www.damrah.netlify.app/post/how-im-able-to-take-notes-with-latex-in-mathematics-class/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://damrah.netlify.app)
