@@ -16,6 +16,7 @@
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/57925294/136812252-85bdf802-6ddb-4e9f-a5ab-96e123c6a8eb.png" />
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/57925294/136812553-ebc7351f-0fb5-4d78-9e56-768b128e7def.png" />
 <img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/57925294/136812604-12b612f2-4bdb-43af-aa30-be1062d037d3.png" />
+<img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/57925294/137599050-d4e64372-e3d5-435e-91c0-a99c48c188cd.png" />
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/57925294/136812943-92d7e046-25e9-46fa-8ca3-e6860155e1a5.png" />
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/57925294/136813094-7cd50d83-0347-4795-a58a-395bf9599607.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/57925294/136813143-43b6e8a6-0570-4899-bde5-7109b84e8122.png" />
