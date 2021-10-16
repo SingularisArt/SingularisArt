@@ -12,13 +12,13 @@
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/57925294/136811800-9d5f0380-4043-45a7-8680-4dee1dbc9474.png" />
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/57925294/136811920-19e7984f-e598-408e-82f9-ca44cef4c5f2.png" />
 <img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/57925294/136812052-b0cb7c78-7108-4749-909a-64f57e81a538.png" />
-<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/57925294/136812147-419beb47-fb47-464d-9dc9-e7c7ff0146bf.png" />
+<img align="left" alt="MySQL" width="45px" src="https://user-images.githubusercontent.com/57925294/136812147-419beb47-fb47-464d-9dc9-e7c7ff0146bf.png" />
 <img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/57925294/136812252-85bdf802-6ddb-4e9f-a5ab-96e123c6a8eb.png" />
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/57925294/136812553-ebc7351f-0fb5-4d78-9e56-768b128e7def.png" />
 <img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/57925294/136812604-12b612f2-4bdb-43af-aa30-be1062d037d3.png" />
-<img align="left" alt="JS" width="26px" src="https://user-images.githubusercontent.com/57925294/137599050-d4e64372-e3d5-435e-91c0-a99c48c188cd.png" />
+<img align="left" alt="Hugo" width="75px" src="https://user-images.githubusercontent.com/57925294/137599099-8851e5e4-e35e-461c-9aed-412610f8e5c0.png" />
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/57925294/136812943-92d7e046-25e9-46fa-8ca3-e6860155e1a5.png" />
-<img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/57925294/136813094-7cd50d83-0347-4795-a58a-395bf9599607.png" />
+<img align="left" alt="Rust" width="45px" src="https://user-images.githubusercontent.com/57925294/136813094-7cd50d83-0347-4795-a58a-395bf9599607.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/57925294/136813143-43b6e8a6-0570-4899-bde5-7109b84e8122.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/57925294/136813206-a4599474-6aa7-4f7d-a17b-439623eaacfa.png" />
 <img align="left" alt="NeoVim" width="26px" src="https://user-images.githubusercontent.com/57925294/136813467-f4f9d1f0-d009-48db-b642-419db900aac2.png" />
