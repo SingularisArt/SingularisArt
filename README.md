@@ -27,6 +27,10 @@
 
 ---
 
+![snake gif](https://github.com/SingularisArt/SingularisArt/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 ## Contact Me
 
 [<img align="left" alt="damrah.netlify.app" width="22px" src="https://damrah.netlify.app/img/avatar.png" />][website]
