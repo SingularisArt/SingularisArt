@@ -47,7 +47,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Contact Me](https://damrah.netlify.app/contact/)
 - [About](https://damrah.netlify.app/about/)
-- [Note Taking with LaTeX: Part 1](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
+- [Note Taking with LaTeX: Part I &lpar;Basics&rpar;](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
 - [Grade 10 Semester 1 Hs Algebra 2](https://damrah.netlify.app/notes/grade-10-semester-1-hs-algebra-2/)
 - [Grade 10 Semester 1 Hs Chemistry](https://damrah.netlify.app/notes/grade-10-semester-1-hs-chemistry/)
 <!-- BLOG-POST-LIST:END -->
