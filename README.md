@@ -68,17 +68,11 @@
   <summary>⚡ GitHub Stats</summary>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SingularisArt&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true", width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingularisArt&layout=compact&theme=tokyonight&hide_border=true", width="325"/> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SingularisArt&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=SingularisArt&show_icons=true&locale=en&theme=radical" alt="SingularisArt"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SingularisArt&theme=radical"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=SingularisArt&theme=github" />
   </p>
- </details>
- 
- <details>
-  <summary>⚡ My most popular github repos</summary>
-  
-  1. [SingularisArt][1]
-  2. [Website][2]
-  3. [Resume][3]
 </details>
  
 [website]: https://damrah.netlify.app
