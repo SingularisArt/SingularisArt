@@ -54,11 +54,10 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My School Notes](https://damrah.netlify.app/notes/)
 - [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
 - [Contact Me](https://damrah.netlify.app/contact/)
 - [About](https://damrah.netlify.app/about/)
-- [Grade 10 Semester 1 Hs Algebra 2](https://damrah.netlify.app/notes/grade-10-semester-1-hs-algebra-2/)
-- [Grade 10 Semester 1 Hs Chemistry](https://damrah.netlify.app/notes/grade-10-semester-1-hs-chemistry/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://damrah.netlify.app)
