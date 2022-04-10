@@ -55,7 +55,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Book Notes](https://damrah.netlify.app/book-notes/)
-- [My School Notes](https://damrah.netlify.app/notes/)
+- [notes](https://damrah.netlify.app/notes/)
 - [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
 - [Contact Me](https://damrah.netlify.app/contact/)
 - [About](https://damrah.netlify.app/about/)
