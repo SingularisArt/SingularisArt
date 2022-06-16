@@ -39,7 +39,15 @@
 ---
 
 ![snake gif](https://github.com/SingularisArt/SingularisArt/blob/output/github-contribution-grid-snake.svg)
-  
+
+---
+
+<p align="center">
+   <a href="https://github.com/SingularisArt/Singularis">
+      <img alt="Dotfiles Image" src="https://github.com/SingularisArt/Singularis/blob/master/media/main.png?raw=true">
+   </a>
+</p>
+
 ---
 
 ## Contact Me
@@ -49,8 +57,6 @@
 [<img alt="quora" width="22px" src="https://user-images.githubusercontent.com/57925294/136809794-30811c32-5dc2-4526-afa4-abb2be2ecba5.png" />][quora]
 [<img alt="reddit" width="22px" src="https://user-images.githubusercontent.com/57925294/136809422-7a0e564f-e112-4e40-8635-c0ed846844b6.png" />][reddit]
 [<img alt="stack-overflow" width="22px" src="https://user-images.githubusercontent.com/57925294/136809613-d10d4955-7b64-4c3d-98a2-7c25a24c1d5d.png" />][stack-overflow]
-
-<br>
 
 ---
 
@@ -67,14 +73,6 @@
 ➡️ [more blog posts...](https://damrah.netlify.app)
 
 <br>
-
----
-
-<p align="center">
-   <a href="https://github.com/SingularisArt/Singularis">
-      <img alt="Dotfiles Image" src="https://github.com/SingularisArt/Singularis/blob/master/media/main.png?raw=true">
-   </a>
-</p>
 
 ---
 
