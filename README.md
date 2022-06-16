@@ -68,9 +68,12 @@
 
 <br>
 
+---
+
 <p align="center">
-	<a href="https://github.com/SingularisArt/Singularis">
-		<img alt="Dotfiles Image" src="https://github.com/SingularisArt/Singularis/blob/master/media/main.png?raw=true"></a>
+   <a href="https://github.com/SingularisArt/Singularis">
+      <img alt="Dotfiles Image" src="https://github.com/SingularisArt/Singularis/blob/master/media/main.png?raw=true">
+   </a>
 </p>
 
 ---
