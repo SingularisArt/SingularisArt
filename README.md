@@ -62,13 +62,7 @@
 
 ## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [My Book Notes](https://damrah.netlify.app/book-notes/)
-- [notes](https://damrah.netlify.app/notes/)
-- [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
-- [Contact Me](https://damrah.netlify.app/contact/)
-- [About](https://damrah.netlify.app/about/)
-<!-- BLOG-POST-LIST:END -->
+- [Note Taking with LaTeX: Part I (NeoVim)](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
 
 ➡️ [more blog posts...](https://damrah.netlify.app)
 
