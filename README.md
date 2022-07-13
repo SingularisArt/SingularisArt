@@ -28,7 +28,7 @@
 
 ### 📕 &nbsp;Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://damrah.netlify.app/post/note-taking-with-latex-part-1/)
+- [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://example.com/note-taking-with-latex-part-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
