@@ -52,10 +52,17 @@
 
 ---
 
-### Books I'm currently reading
+### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+
+---
+
+### 📚 Books I'v read
+
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
 
 ---
 
