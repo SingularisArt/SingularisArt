@@ -1,27 +1,18 @@
-name: Latest book list from goodreads
+name: Books from goodreads
 on:
   schedule: # Run workflow automatically
-    # This will make it run twice a day (06:00 and 18:00)
-    - cron: "0 6,18 * * *"
+    # This will make it run every hour
+    - cron: "0 * * * *"
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books:
-    name: Update this repo's README with goodreads books
+    name: Update this repo's README with what you're currently reading
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      # what you're currently reading
-      - uses: zwacky/goodreads-profile-workflow@v1.2.3
+      - uses: zwacky/goodreads-profile-workflow@main
         with:
+          # Replace this with your goodreads user id
           goodreads_user_id: "118737847"
           shelf: "currently-reading"
-      # the last 5 books you've read
-      - uses: zwacky/goodreads-profile-workflow@v1.2.3
-        with:
-          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
-          goodreads_user_id: "118737847"
-          shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
-          max_books_count: "5"
-          template: "- [$title]($url) by $author ($my_rating_stars)"
