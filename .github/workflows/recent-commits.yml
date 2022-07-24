@@ -1,4 +1,4 @@
-name: Update GitHub Profile Page
+name: Recent Commits
 on: [push]
 
 jobs:
