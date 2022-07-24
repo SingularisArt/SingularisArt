@@ -52,14 +52,14 @@
 
 ---
 
-### What I'm Currently Reading 📚
+### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
 ---
 
-### Last 5 Books I've Read 🤓
+### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
 <!-- GOODREADS-READ-LIST:END -->
