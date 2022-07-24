@@ -1,0 +1,19 @@
+name: 'Current reading books'
+
+on:
+  schedule: # Run workflow automatically
+    # This will make it run every hour
+    - cron: '0 * * * *'
+    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch:
+jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with what you're currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          # Replace this with your goodreads user id
+          goodreads_user_id: '92930971'
+          shelf: 'currently-reading'
