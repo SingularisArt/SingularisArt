@@ -59,13 +59,6 @@
 
 ---
 
-### 📚 Books I'v read
-
-<!-- GOODREADS-READ-LIST:START -->
-<!-- GOODREADS-READ-LIST:END -->
-
----
-
 ### 📊 What I worked on this week
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SingularisArt&hide_title=true&hide_border=true&langs_count=10&bg_color=00000000&text_color=777)
