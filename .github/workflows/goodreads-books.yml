@@ -12,12 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       # what you're currently reading
-      - uses: zwacky/goodreads-profile-workflow@v1.2.3
+      - uses: zwacky/goodreads-profile-workflow@main
         with:
+          # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "118737847"
           shelf: "currently-reading"
       # the last 5 books you've read
-      - uses: zwacky/goodreads-profile-workflow@v1.2.3
+      - uses: zwacky/goodreads-profile-workflow@main
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "118737847"
