@@ -14,13 +14,13 @@ jobs:
       # what you're currently reading
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
-          goodreads_user_id: "92930971"
+          goodreads_user_id: "118737847"
           shelf: "currently-reading"
       # the last 5 books you've read
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
-          goodreads_user_id: "92930971"
+          goodreads_user_id: "118737847"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
           max_books_count: "5"
