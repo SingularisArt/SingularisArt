@@ -1,9 +1,13 @@
 <h1 align='center'>
     <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
-       alt='Waving hand animated gif'
-       height='30px'
-       width='30px' />
+        alt='Waving hand animated gif'
+        height='30px'
+        width='30px' />
+    <br />
   Hi There, I'm SingularisArt
+  <br />
+  <img src='https://komarev.com/ghpvc/?username=SingularisArt&color=green&style=for-the-badge'
+    alt='Profile Views' />
 </h1>
 
 <h2 align='center'>
