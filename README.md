@@ -70,6 +70,11 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [This Book Is Anti-Racist: 20 Lessons on How to Wake Up, Take Action, and Do the Work](https://www.goodreads.com/review/show/3462244376?utm_medium=api&utm_source=rss) by Tiffany Jewell (unrated)
+- [On the Other Side of Freedom: The Case for Hope](https://www.goodreads.com/review/show/3462244185?utm_medium=api&utm_source=rss) by DeRay Mckesson (unrated)
+- [Algebra I for Dummies](https://www.goodreads.com/review/show/4184224913?utm_medium=api&utm_source=rss) by Mary Jane Sterling (unrated)
+- [Python for Data Science For Dummies](https://www.goodreads.com/review/show/3455350352?utm_medium=api&utm_source=rss) by John Paul Mueller (unrated)
+- [Physics I for Dummies](https://www.goodreads.com/review/show/4184225891?utm_medium=api&utm_source=rss) by Steven Holzner (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 ---
