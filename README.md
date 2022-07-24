@@ -55,14 +55,9 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Between the World and Me](https://www.goodreads.com/review/show/3680117905?utm_medium=api&utm_source=rss) by Ta-Nehisi Coates (⭐️4.39)
-- [The Wretched of the Earth](https://www.goodreads.com/review/show/3680117882?utm_medium=api&utm_source=rss) by Frantz Fanon (⭐️4.29)
-- [Why Are All The Black Kids Sitting Together in the Cafeteria?](https://www.goodreads.com/review/show/3680117894?utm_medium=api&utm_source=rss) by Beverly Daniel Tatum (⭐️4.31)
-- [Bernie Sanders Guide to Political Revolution](https://www.goodreads.com/review/show/3462244648?utm_medium=api&utm_source=rss) by Bernie Sanders (⭐️3.97)
-- [There There](https://www.goodreads.com/review/show/3680117909?utm_medium=api&utm_source=rss) by Tommy Orange (⭐️3.99)
-- [Palestine's Children: Returning to Haifa and Other Stories](https://www.goodreads.com/review/show/3680117873?utm_medium=api&utm_source=rss) by غسان كنفاني (⭐️4.33)
-- [Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong](https://www.goodreads.com/review/show/3680117887?utm_medium=api&utm_source=rss) by James W. Loewen (⭐️3.94)
-- [Physics Essentials for Dummies](https://www.goodreads.com/review/show/4184226255?utm_medium=api&utm_source=rss) by Steven Holzner (⭐️3.58)
+- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐️4.32)
+- [Latin For Dummies](https://www.goodreads.com/review/show/4869103424?utm_medium=api&utm_source=rss) by Clifford A. Hull (⭐️2)
+- [Latin for Dummies](https://www.goodreads.com/review/show/4869103247?utm_medium=api&utm_source=rss) by Clifford A. Hull (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 ---
