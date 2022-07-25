@@ -56,6 +56,13 @@
 
 ---
 
+### 📚 Books I'm planning to read
+
+<!-- GOODREADS-PLANNING-READ-LIST:START -->
+<!-- GOODREADS-PLANNING-READ-LIST:END -->
+
+---
+
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
@@ -78,7 +85,7 @@
 
 ### 📊 What I worked on this week
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SingularisArt&hide_title=true&hide_border=true&langs_count=10&bg_color=00000000&text_color=777)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SingularisArt&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
 
 ---
 
@@ -256,8 +263,6 @@ VhB/XGmT3SFE+CHSTmU=
 =aTU2
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-</details>
 
 ---
 
