@@ -58,8 +58,8 @@
 
 ### 📚 Books I'm planning to read
 
-<!-- GOODREADS-PLANNING-READ-LIST:START -->
-<!-- GOODREADS-PLANNING-READ-LIST:END -->
+<!-- GOODREADS-FUTURE-READ-LIST:START -->
+<!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 ---
 
