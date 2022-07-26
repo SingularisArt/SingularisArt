@@ -1,36 +1,34 @@
-name: Latest book list from a goodreads
+name: 'Books from GoodReads'
+
 on:
-  schedule: # Run workflow automatically
-    # This will make it run twice a day (06:00 and 18:00)
-    - cron: "0 * * * *"
-    # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
+
 jobs:
   update-readme-with-goodreads-books:
-    name: Update this repo's README with goodreads books
+    name: "Update this repo's README with goodreads books"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      # the first 5 books that I'm currently reading
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
-          goodreads_user_id: "118737847"
-          shelf: "currently-reading"
-          template: "- [$title]($url) by $author ($average_rating ⭐/5)"
-          max_books_count: "50"
-      # the last 5 books I've read
+          goodreads_user_id: '118737847'
+          shelf: 'currently-reading'
+          template: '- [$title]($url) by $author ($average_rating/5 ⭐)'
+          max_books_count: '50'
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
-          goodreads_user_id: "118737847"
-          shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
-          template: "- [$title]($url) by $author ($average_rating ⭐/5)"
-          max_books_count: "50"
-      # the 5 future books that I plan to read
+          goodreads_user_id: '118737847'
+          shelf: 'read'
+          comment_tag_name: 'GOODREADS-READ-LIST'
+          template: '- [$title]($url) by $author ($average_rating/5 ⭐)'
+          max_books_count: '50'
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
-          goodreads_user_id: "118737847"
-          shelf: "to-read"
-          comment_tag_name: "GOODREADS-FUTURE-READ-LIST"
-          template: "- [$title]($url) by $author ($average_rating ⭐/5)"
-          max_books_count: "50"
+          goodreads_user_id: '118737847'
+          shelf: 'to-read'
+          comment_tag_name: 'GOODREADS-FUTURE-READ-LIST'
+          template: '- [$title]($url) by $author ($average_rating/5 ⭐)'
+          max_books_count: '50'
