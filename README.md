@@ -79,9 +79,6 @@
 - [Spanish Grammar for Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (4/5 ⭐)
 - [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (3.5/5 ⭐)
 - [Spanish Phrases for Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (3.94/5 ⭐)
-- [Spanish for Dummies](https://www.goodreads.com/review/show/4869103996?utm_medium=api&utm_source=rss) by Susana Wald (3.63/5 ⭐)
-- [Arabic For Dummies](https://www.goodreads.com/review/show/4869103784?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3.66/5 ⭐)
-- [Arabic Phrases for Dummies](https://www.goodreads.com/review/show/4869103640?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3/5 ⭐)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
