@@ -163,6 +163,13 @@
 ![Astronomy](https://img.shields.io/badge/astronomy-000000.svg?style=for-the-badge)
 ![Psychology](https://img.shields.io/badge/psychology-000000.svg?style=for-the-badge)
 
+### Game Development
+
+![Pygame](https://img.shields.io/badge/pygame-57A143.svg?style=for-the-badge&logo=pygame&logoColor=white)
+![Opengl](https://img.shields.io/badge/opengl-FFFF00.svg?style=for-the-badge&logo=opengl&logoColor=white)
+![Unity](https://img.shields.io/badge/unity%20engine-00CCCC.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/unreal%20engine-8a8a8a.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
 #### ✒️ IDEs/Editors
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
@@ -183,6 +190,7 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #### 🎈 Hosting/SaaS
 
