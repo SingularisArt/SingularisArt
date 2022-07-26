@@ -74,9 +74,9 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (4.32)
-- [Latin For Dummies](https://www.goodreads.com/review/show/4869103424?utm_medium=api&utm_source=rss) by Clifford A. Hull (2)
-- [Latin for Dummies](https://www.goodreads.com/review/show/4869103247?utm_medium=api&utm_source=rss) by Clifford A. Hull (3.71)
+- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (5/4.32 ⭐)
+- [Latin For Dummies](https://www.goodreads.com/review/show/4869103424?utm_medium=api&utm_source=rss) by Clifford A. Hull (5/2 ⭐)
+- [Latin for Dummies](https://www.goodreads.com/review/show/4869103247?utm_medium=api&utm_source=rss) by Clifford A. Hull (5/3.71 ⭐)
 <!-- GOODREADS-LIST:END -->
 
 ---
