@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-2. 💪 Opened PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
-3. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-4. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-5. 🗣 Commented on [#2804](https://github.com/LunarVim/LunarVim/issues/2804) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+1. 🎉 Merged PR [#2](https://github.com/SingularisArt/SingularisArt/pull/2) in [SingularisArt/SingularisArt](https://github.com/SingularisArt/SingularisArt)
+2. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+3. 💪 Opened PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+4. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+5. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
 <!--END_SECTION:activity-->
 
 ---
