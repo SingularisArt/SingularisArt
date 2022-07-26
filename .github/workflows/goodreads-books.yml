@@ -16,19 +16,21 @@ jobs:
         with:
           goodreads_user_id: "118737847"
           shelf: "currently-reading"
-          max_books_count: "5"
+          template: "- [$title]($url) by $author ($average_rating)"
+          max_books_count: "50"
       # the last 5 books I've read
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
           goodreads_user_id: "118737847"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
-          max_books_count: "5"
-          template: "- [$title]($url) by $author ($my_rating_stars)"
+          template: "- [$title]($url) by $author ($average_rating)"
+          max_books_count: "50"
       # the 5 future books that I plan to read
       - uses: zwacky/goodreads-profile-workflow@v1.2.3
         with:
           goodreads_user_id: "118737847"
           shelf: "to-read"
           comment_tag_name: "GOODREADS-FUTURE-READ-LIST"
-          max_books_count: "5"
+          template: "- [$title]($url) by $author ($average_rating)"
+          max_books_count: "50"
