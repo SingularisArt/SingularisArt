@@ -61,9 +61,12 @@
 ---
 
 
-### 📽️ My Active Projects
+### 📽️ Projects
 
-1. [DeathVim](https://github.com/SingularisArt/DeathVim)
+- [Dotfiles](https://github.com/SingularisArt/Singularis)
+- [DeathVim](https://github.com/SingularisArt/DeathVim)
+- [Website](https://github.com/SingularisArt/Website) ([Link](https://damrah.netlify.app))
+- [Notes](https://github.com/SingularisArt/notes)
 
 ---
 
@@ -126,6 +129,7 @@
 ![Perl](https://img.shields.io/badge/perl-3670A0.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-281C1C.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-006400.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-006400.svg?style=for-the-badge&logo=bash&logoColor=white)
@@ -154,7 +158,8 @@
 ![Math](https://img.shields.io/badge/math-000000.svg?style=for-the-badge)
 ![Physics](https://img.shields.io/badge/physics-000000.svg?style=for-the-badge)
 ![Chemistry](https://img.shields.io/badge/chemistry-000000.svg?style=for-the-badge)
-![Anatomy and Physiology](https://img.shields.io/badge/anatomy%20and%20physiology-000000.svg?style=for-the-badge)
+![Anatomy](https://img.shields.io/badge/anatomy-000000.svg?style=for-the-badge)
+![Physiology](https://img.shields.io/badge/Physiology-000000.svg?style=for-the-badge)
 ![Astronomy](https://img.shields.io/badge/astronomy-000000.svg?style=for-the-badge)
 ![Psychology](https://img.shields.io/badge/psychology-000000.svg?style=for-the-badge)
 
@@ -193,7 +198,7 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/debian-CE0056?style=for-the-badge&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
+![Mac](https://img.shields.io/badge/mac-0078D6?style=for-the-badge&logo=macos&logoColor=white)
 ![Virtual Box](https://img.shields.io/badge/virtual%20box-183A91?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 #### 🔌 Networks
@@ -203,11 +208,11 @@
 
 #### 🏢 Office
 
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Libre Office](https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/microsoft%20word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/microsoft%20excel-2B579A?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/microsoft%20powerpoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Libre Office](https://img.shields.io/badge/libre%20office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+![Zoom](https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ---
 
@@ -215,7 +220,7 @@
 
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=SingularisArt&show_icons=true&theme=nord&count_private=true&line_height=40'  align='left' />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SingularisArt&theme=nord&hide_langs_below=4' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=SingularisArt&theme=nord&langs_count=5' />
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=SingularisArt&theme=nord&row=1&column=7)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SingularisArt&theme=nord_dark)
