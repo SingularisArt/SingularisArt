@@ -62,11 +62,12 @@
 ---
 
 ### 📽️ Projects
-
+<!-- PROJECTS:START -->
 - [Dotfiles](https://github.com/SingularisArt/Singularis)
 - [DeathVim](https://github.com/SingularisArt/DeathVim)
 - [Website](https://github.com/SingularisArt/Website) ([Link](https://damrah.netlify.app))
 - [Notes](https://github.com/SingularisArt/notes)
+<!-- PROJECTS:END -->
 [View More](https://github.com/SingularisArt?tab=repositories)
 
 ---
