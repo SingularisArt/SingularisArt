@@ -130,6 +130,7 @@
 ![Perl](https://img.shields.io/badge/perl-3670A0.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-281C1C.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-FFA500.svg?style=for-the-badge&logo=swift&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-006400.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -138,6 +139,8 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=JSON&logoColor=%23F7DF1E)
+![Yaml](https://img.shields.io/badge/yaml-000000.svg?style=for-the-badge&logo=YML&logoColor=%23F7DF1E)
+![CSV](https://img.shields.io/badge/csv-000000.svg?style=for-the-badge&logo=CSV&logoColor=%23F7DF1E)
 
 #### 🗣️ Human Languages
 
