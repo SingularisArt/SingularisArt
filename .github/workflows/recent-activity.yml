@@ -1,4 +1,4 @@
-name: Recent Activity
+name: 'Recent GitHub Activity'
 
 on:
   schedule:
