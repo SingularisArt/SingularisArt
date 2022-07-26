@@ -59,14 +59,14 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Dokus M. Kwakernaak ()
-- [Dutch for Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (3.55)
-- [Spanish Grammar for Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (4)
-- [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (3.5)
-- [Spanish Phrases for Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (3.94)
-- [Spanish for Dummies](https://www.goodreads.com/review/show/4869103996?utm_medium=api&utm_source=rss) by Susana Wald (3.63)
-- [Arabic For Dummies](https://www.goodreads.com/review/show/4869103784?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3.66)
-- [Arabic Phrases for Dummies](https://www.goodreads.com/review/show/4869103640?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3)
+- [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Dokus M. Kwakernaak (5/ ⭐)
+- [Dutch for Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (5/3.55 ⭐)
+- [Spanish Grammar for Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (5/4 ⭐)
+- [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (5/3.5 ⭐)
+- [Spanish Phrases for Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (5/3.94 ⭐)
+- [Spanish for Dummies](https://www.goodreads.com/review/show/4869103996?utm_medium=api&utm_source=rss) by Susana Wald (5/3.63 ⭐)
+- [Arabic For Dummies](https://www.goodreads.com/review/show/4869103784?utm_medium=api&utm_source=rss) by Amine Bouchentouf (5/3.66 ⭐)
+- [Arabic Phrases for Dummies](https://www.goodreads.com/review/show/4869103640?utm_medium=api&utm_source=rss) by Amine Bouchentouf (5/3 ⭐)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 ---
