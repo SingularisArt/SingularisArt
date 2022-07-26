@@ -81,9 +81,9 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Python for Data Science For Dummies](https://www.goodreads.com/review/show/3455350352?utm_medium=api&utm_source=rss) by John Paul Mueller (⭐⭐⭐⭐⭐)
-- [Python for Data Science For Dummies (For Dummies)](https://www.goodreads.com/review/show/3455350514?utm_medium=api&utm_source=rss) by John Paul Mueller (⭐⭐⭐⭐⭐)
-- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (⭐⭐⭐⭐)
+- [Python for Data Science For Dummies](https://www.goodreads.com/review/show/3455350352?utm_medium=api&utm_source=rss) by John Paul Mueller (3.83)
+- [Python for Data Science For Dummies (For Dummies)](https://www.goodreads.com/review/show/3455350514?utm_medium=api&utm_source=rss) by John Paul Mueller (4.06)
+- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (4.5)
 <!-- GOODREADS-READ-LIST:END -->
 
 ---
