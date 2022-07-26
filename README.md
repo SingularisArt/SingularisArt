@@ -38,6 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://example.com/note-taking-with-latex-part-1/)
 <!-- BLOG-POST-LIST:END -->
+[View More](https://damrah.netlify.app)
 
 ---
 
@@ -60,13 +61,13 @@
 
 ---
 
-
 ### 📽️ Projects
 
 - [Dotfiles](https://github.com/SingularisArt/Singularis)
 - [DeathVim](https://github.com/SingularisArt/DeathVim)
 - [Website](https://github.com/SingularisArt/Website) ([Link](https://damrah.netlify.app))
 - [Notes](https://github.com/SingularisArt/notes)
+[View More](https://github.com/SingularisArt?tab=repositories)
 
 ---
 
@@ -82,6 +83,7 @@
 - [Arabic For Dummies](https://www.goodreads.com/review/show/4869103784?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3.66/5 ⭐)
 - [Arabic Phrases for Dummies](https://www.goodreads.com/review/show/4869103640?utm_medium=api&utm_source=rss) by Amine Bouchentouf (3/5 ⭐)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
+[View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
 ---
 
@@ -92,6 +94,7 @@
 - [Latin For Dummies](https://www.goodreads.com/review/show/4869103424?utm_medium=api&utm_source=rss) by Clifford A. Hull (2/5 ⭐)
 - [Latin for Dummies](https://www.goodreads.com/review/show/4869103247?utm_medium=api&utm_source=rss) by Clifford A. Hull (3.71/5 ⭐)
 <!-- GOODREADS-LIST:END -->
+[View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
 
 ---
 
@@ -102,6 +105,7 @@
 - [Python for Data Science For Dummies (For Dummies)](https://www.goodreads.com/review/show/3455350514?utm_medium=api&utm_source=rss) by John Paul Mueller (4.06/5 ⭐)
 - [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (4.5/5 ⭐)
 <!-- GOODREADS-READ-LIST:END -->
+[View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
 
 ---
 
