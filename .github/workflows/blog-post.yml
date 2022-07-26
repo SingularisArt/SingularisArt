@@ -1,4 +1,5 @@
 name: 'Latest blog post'
+
 on:
   schedule:
     # Runs every hour
