@@ -75,11 +75,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Dokus M. Kwakernaak (/5 ⭐)
-- [Dutch for Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (3.55/5 ⭐)
-- [Spanish Grammar for Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (4/5 ⭐)
-- [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (3.5/5 ⭐)
-- [Spanish Phrases for Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (3.94/5 ⭐)
+- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/4875856299?utm_medium=api&utm_source=rss) by Ray Kurzweil (3.95/5 ⭐)
+- [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (3.96/5 ⭐)
+- [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (4.16/5 ⭐)
+- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (4.55/5 ⭐)
+- [Peacemaking Among Higher Order Primates](https://www.goodreads.com/review/show/4875823922?utm_medium=api&utm_source=rss) by Jordan B. Peterson (3.56/5 ⭐)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
