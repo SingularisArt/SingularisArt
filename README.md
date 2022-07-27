@@ -101,9 +101,11 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Python for Data Science For Dummies](https://www.goodreads.com/review/show/3455350352?utm_medium=api&utm_source=rss) by John Paul Mueller (3.83/5 ⭐)
-- [Python for Data Science For Dummies (For Dummies)](https://www.goodreads.com/review/show/3455350514?utm_medium=api&utm_source=rss) by John Paul Mueller (4.06/5 ⭐)
-- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (4.5/5 ⭐)
+- [The Future of Leadership in the Age of AI: Preparing Your Leadership Skills for the AI-Shaped Future of Work (World of the Future)](https://www.goodreads.com/review/show/4875841452?utm_medium=api&utm_source=rss) by Marin Ivezic (4.38/5 ⭐)
+- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (4.58/5 ⭐)
+- [Ricky Ricotta's Mighty Robot vs. the Mutant Mosquitoes from Mercury (Ricky Ricotta, #2)](https://www.goodreads.com/review/show/4875805544?utm_medium=api&utm_source=rss) by Dav Pilkey (4.08/5 ⭐)
+- [Ricky Ricotta's Mighty Robot Adventures](https://www.goodreads.com/review/show/4875805944?utm_medium=api&utm_source=rss) by Dav Pilkey (4.15/5 ⭐)
+- [Ricky Ricotta's Mighty Robot vs. the Uranium Unicorns from Uranus (Ricky Ricotta, #7)](https://www.goodreads.com/review/show/4875806514?utm_medium=api&utm_source=rss) by Dav Pilkey (4.15/5 ⭐)
 <!-- GOODREADS-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
 
