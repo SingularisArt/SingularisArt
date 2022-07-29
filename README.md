@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/folke/which-key.nvim/issues/300) in [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
-2. 🎉 Merged PR [#2](https://github.com/SingularisArt/SingularisArt/pull/2) in [SingularisArt/SingularisArt](https://github.com/SingularisArt/SingularisArt)
-3. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-4. 💪 Opened PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
-5. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+1. ❗️ Opened issue [#3](https://github.com/ChristianChiarulli/colorgen-nvim/issues/3) in [ChristianChiarulli/colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim)
+2. 🗣 Commented on [#300](https://github.com/folke/which-key.nvim/issues/300) in [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
+3. 🎉 Merged PR [#2](https://github.com/SingularisArt/SingularisArt/pull/2) in [SingularisArt/SingularisArt](https://github.com/SingularisArt/SingularisArt)
+4. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+5. 💪 Opened PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
 <!--END_SECTION:activity-->
 
 ---
