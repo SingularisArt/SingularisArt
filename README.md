@@ -159,8 +159,10 @@
 
 ![Blockchain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge)
 ![Crypto](https://img.shields.io/badge/crypto%20currency-000000.svg?style=for-the-badge)
+![Cryptography](https://img.shields.io/badge/cryptography-000000.svg?style=for-the-badge)
 ![NFTs](https://img.shields.io/badge/nfts-000000.svg?style=for-the-badge)
 ![AI](https://img.shields.io/badge/ai-000000.svg?style=for-the-badge)
+![Networking](https://img.shields.io/badge/networking-000000.svg?style=for-the-badge)
 ![Cloud](https://img.shields.io/badge/cloud-000000.svg?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/data%20structures-000000.svg?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/algorithms-000000.svg?style=for-the-badge)
