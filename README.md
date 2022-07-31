@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/ChristianChiarulli/colorgen-nvim/issues/3) in [ChristianChiarulli/colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim)
-2. 🗣 Commented on [#300](https://github.com/folke/which-key.nvim/issues/300) in [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
-3. 🎉 Merged PR [#2](https://github.com/SingularisArt/SingularisArt/pull/2) in [SingularisArt/SingularisArt](https://github.com/SingularisArt/SingularisArt)
-4. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-5. 💪 Opened PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+1. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+2. ❗️ Closed issue [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+3. 🗣 Commented on [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+4. ❗️ Opened issue [#6](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/6) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
+5. ❗️ Opened issue [#3](https://github.com/ChristianChiarulli/colorgen-nvim/issues/3) in [ChristianChiarulli/colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim)
 <!--END_SECTION:activity-->
 
 ---
