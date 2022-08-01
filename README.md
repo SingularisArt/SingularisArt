@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-2. ❗️ Closed issue [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-3. 🗣 Commented on [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-4. ❗️ Opened issue [#6](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/6) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
-5. ❗️ Opened issue [#3](https://github.com/ChristianChiarulli/colorgen-nvim/issues/3) in [ChristianChiarulli/colorgen-nvim](https://github.com/ChristianChiarulli/colorgen-nvim)
+1. ❗️ Closed issue [#6](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/6) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
+2. 🗣 Commented on [#6](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/6) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
+3. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+4. ❗️ Closed issue [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+5. 🗣 Commented on [#1475](https://github.com/SirVer/ultisnips/issues/1475) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 <!--END_SECTION:activity-->
 
 ---
