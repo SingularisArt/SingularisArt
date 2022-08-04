@@ -78,7 +78,7 @@
 - [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/4875856299?utm_medium=api&utm_source=rss) by Ray Kurzweil (⭐ 3.95)
 - [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (⭐ 3.96)
 - [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐ 4.16)
-- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.55)
+- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.56)
 - [Peacemaking Among Higher Order Primates](https://www.goodreads.com/review/show/4875823922?utm_medium=api&utm_source=rss) by Jordan B. Peterson (⭐ 3.56)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
