@@ -88,11 +88,11 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [The Complete Illustrated Novels of Sherlock Holmes: A Study in Scarlet, The Sign of the Four, The Hound of the Baskervilles & The Valley of Fear](https://www.goodreads.com/review/show/4898688764?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐ 4.44)
 - [Linear Algebra For Dummies](https://www.goodreads.com/review/show/4875828344?utm_medium=api&utm_source=rss) by Mary Jane Sterling (⭐ 3.62)
 - [Calculus for Dummies](https://www.goodreads.com/review/show/4875826925?utm_medium=api&utm_source=rss) by Mark  Ryan (⭐ 3.81)
 - [Calculus II For Dummies, 2nd Edition by Zegarelli, For Dummies](https://www.goodreads.com/review/show/4875826400?utm_medium=api&utm_source=rss) by Zegarelli (⭐ 4.5)
 - [Linear Algebra Done Right](https://www.goodreads.com/review/show/4875825994?utm_medium=api&utm_source=rss) by Sheldon Axler (⭐ 4.35)
-- [The Art of Cartographics: Designing the Modern Map](https://www.goodreads.com/review/show/4875825341?utm_medium=api&utm_source=rss) by Jasmine Desclaux-Salachas (⭐ 4.22)
 <!-- GOODREADS-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
 
