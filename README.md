@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. ❗️ Opened issue [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-4. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-5. ❗️ Closed issue [#6](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim/issues/6) in [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim)
+1. ❗️ Closed issue [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. ❗️ Opened issue [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
 
 ---
