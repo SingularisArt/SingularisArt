@@ -96,6 +96,11 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐⭐⭐⭐⭐)
+- [The Future of Leadership in the Age of AI: Preparing Your Leadership Skills for the AI-Shaped Future of Work (World of the Future)](https://www.goodreads.com/review/show/4875841452?utm_medium=api&utm_source=rss) by Marin Ivezic (unrated)
+- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (⭐⭐⭐⭐⭐)
+- [Ricky Ricotta's Mighty Robot vs. the Mutant Mosquitoes from Mercury (Ricky Ricotta, #2)](https://www.goodreads.com/review/show/4875805544?utm_medium=api&utm_source=rss) by Dav Pilkey (⭐⭐⭐⭐)
+- [Ricky Ricotta's Mighty Robot Adventures](https://www.goodreads.com/review/show/4875805944?utm_medium=api&utm_source=rss) by Dav Pilkey (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
 
