@@ -75,11 +75,6 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/4875856299?utm_medium=api&utm_source=rss) by Ray Kurzweil (⭐ 3.95)
-- [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (⭐ 3.96)
-- [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐ 4.16)
-- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.56)
-- [Peacemaking Among Higher Order Primates](https://www.goodreads.com/review/show/4875823922?utm_medium=api&utm_source=rss) by Jordan B. Peterson (⭐ 3.56)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
@@ -88,11 +83,6 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [The Complete Illustrated Novels of Sherlock Holmes: A Study in Scarlet, The Sign of the Four, The Hound of the Baskervilles & The Valley of Fear](https://www.goodreads.com/review/show/4898688764?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐ 4.44)
-- [Linear Algebra For Dummies](https://www.goodreads.com/review/show/4875828344?utm_medium=api&utm_source=rss) by Mary Jane Sterling (⭐ 3.62)
-- [Calculus for Dummies](https://www.goodreads.com/review/show/4875826925?utm_medium=api&utm_source=rss) by Mark  Ryan (⭐ 3.81)
-- [Calculus II For Dummies, 2nd Edition by Zegarelli, For Dummies](https://www.goodreads.com/review/show/4875826400?utm_medium=api&utm_source=rss) by Zegarelli (⭐ 4.5)
-- [Linear Algebra Done Right](https://www.goodreads.com/review/show/4875825994?utm_medium=api&utm_source=rss) by Sheldon Axler (⭐ 4.35)
 <!-- GOODREADS-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
 
@@ -101,11 +91,6 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐⭐⭐⭐⭐)
-- [The Future of Leadership in the Age of AI: Preparing Your Leadership Skills for the AI-Shaped Future of Work (World of the Future)](https://www.goodreads.com/review/show/4875841452?utm_medium=api&utm_source=rss) by Marin Ivezic (unrated)
-- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (⭐⭐⭐⭐⭐)
-- [Ricky Ricotta's Mighty Robot vs. the Mutant Mosquitoes from Mercury (Ricky Ricotta, #2)](https://www.goodreads.com/review/show/4875805544?utm_medium=api&utm_source=rss) by Dav Pilkey (⭐⭐⭐⭐)
-- [Ricky Ricotta's Mighty Robot Adventures](https://www.goodreads.com/review/show/4875805944?utm_medium=api&utm_source=rss) by Dav Pilkey (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
 
@@ -255,55 +240,55 @@
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
-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
+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
-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
-VhB/XGmT3SFE+CHSTmU=
-=aTU2
+PhYhBDThHb31EFBTGKq0uFpJYie0BHi/BQJi5WXWAhsDBQkAK4GABQsJCAcCBhUK
+CQgLAgQWAgMBAh4BAheAAAoJEFpJYie0BHi/3vkQAI0AZ985105s7ATP6wi1e5Ch
+F1qgFfPDY5A32M9/fXtnGUvH4pZu/KmxABP5TaUGRZu2l1X7BPXq+ax7UpW7+S+0
+zFtMv6bU1Sq5hoGJB0AlZC1SQcgPRbESeS0L/4ziGfekbqclm/u1/oJmyfC3bF0w
+xkF5Seuqol8orcf3vpB+rQx8nhXnS45kvuFeDSPN598nZbu+BC51s5mKDKbQYonR
+y1f3IGTc5pM1QOmFEyomz3JgnZECORNL8Y55jOA82Gk41Os3sofSigKtqDpX8xba
+Gnl8WHIUbspYTfw5bOLxJU9LkB6IUQOzfIV/9w8mLFOyhZsh5lkOxeLDRWOXY/Oi
+TG1nQ2iq/hIg04Hr6iM3roGgDJgXipeRgvPSUeQMWfFqn7HO2Xmcc3TKBI4zoFjV
+ywpN1lL7Pv73GNWN/h2QtrtH72aqFpifVyOHgq/0Pr5JIb/g/FF2hm7aIXIJ5BsF
+ulsQrtfUQUBl0/bG2+RNvy1DO7F9z3ShErtSXleAwo9wHpiLWvHy3C1FZXbX7w0l
+5/dPeJafmZnmqKKYqseOSZh9//jzQ4DQC8G/z77lC9k+aoGro4ginBFYACin0Ey1
+7znAP+BNDABlS3Ol0yry5oISkLv/6ZesPUZN55MfxT4X1enRsM7gRtZjCKEEkgqp
+Td9oHnbLyD8RvblZvffEuQINBGLlZdYBEACT1YK7A4ksF5Wk7xlzWWHmBdWy2CSQ
+5iSCZSq5iNXtB2xn5oGB2hKC3JAlu0mWl/VjDJVnYUs5xBs6f0QJ8ZMxvx4vm2DZ
+BmvlB8M2VAvurGeocjR2KFQoH0jpFzZWf+Sh/isvyFCgNzb4mU1qsJLHdTgrWy/W
+UsJMKMNxJEtxcm+xNvjjXGRDroavuC6x6vM7ElW7sL0zpTfy3YCCin7VoBcX486t
+BLNKcj1ttUR9JOWqUPu1hxN3RvD3F+5J3dB4kGPVQcLqK48kUe5WG2ca5GK1vO2s
+x02p7Kos0VQzXrjnxg5BraRRHlezc72odb+fQNJK9qgvVC1kJ0cbDYXpghdhCbs8
+1b4dGAqw2BfzwKNAtrvRyvZiBz4h9n4U9CcJ8RxkJOFrNciMym6BFs0TNNDU68RM
+ykHWFQG4/5CTPYghDdBpzSsKY0izLsDqr93GkBGv3INXSecr2mQLNTXlnKyJHIEB
+/vJFX96Rh54AQgQ5UhQVaI3DG5aGleLvIUAeF653r4mqPJ4fAB78h6Y65XZf+QO2
+aqnufbudBocer2UBDjdeOENJCMwvzWwKwyfbAdgJEbJ8hAvJ7fWBdsRVwkVewhT8
+VYvHGboQYd50epI8eTOFSVvzSo8OTzCT9lpPpdQWceVyVq2bbGe+WPBkx8huafgD
+p+0iVhSlCL9SKwARAQABiQI8BBgBCAAmFiEENOEdvfUQUFMYqrS4WkliJ7QEeL8F
+AmLlZdYCGwwFCQArgYAACgkQWkliJ7QEeL8GIg//dBGStKerFodX778NSMD2BQX0
+cTdo2yP8oE5TbM3PNGBYsvL+ui/DkdGxSVorwFYWLCOWf+oFZa4MlgTfSAjmakLW
+88YHGmEOsL6yaeSW101t9+OI7m5qOjbwTKBX4b8PNia4UjtkFDZDhAVEvbX+X4uv
+xwkHbEo+DqpV8KJv6V9dJiwmMCiZ5/Ze4mfx0aFgxq5jYiqI7XGDZOeb4rPewVAr
+Sn5mmIp1Dwt65nBUvepOjOpcvNbG2H/U/aAl/kduO/B5jlf4xoVmjtopIg4bdRtM
+R81pi64+0QjmyHYj68EL/+kpd1o+09F0tjFxIgeWzIFosjaHchN0hM0LKnwFITXw
+jf6C19bUKnMNN7B2oY9YaQkY65eyrX5ouP9BhK8vSEgIXUXrxU3pgfBhIbQgUVk1
+DaHS++Es+PgIoG+tQdQmL7fUP1Zk0AwFRQ1vU2kugLuJul1M8JuNj9FJ9PXQNcSE
+7vucPMPpXuZQJ+H0eTRvtVgWUdNIIErOwjshrFMINaexXfBpC8vgqBLqbvuFe40m
++ghP58Sw8Auy2Cs2Dl/CA/o4j3EaADsxvirdRryYuld1/zUKLw2hUWontFvv1mr0
+lPwIxIsBxzCEEbfS2Wlic4J/NLlOBkxaEzzyU2XKGEJ4G9UOtFcNcAYL4ehQ9FOe
+a+rqAJWAHJkUGAFiNxg=
+=fdrb
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
