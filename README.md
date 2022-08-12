@@ -75,11 +75,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Hamlet](https://www.goodreads.com/review/show/4913779990?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 4.02)
-- [King Lear](https://www.goodreads.com/review/show/4913779701?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 3.91)
-- [Macbeth](https://www.goodreads.com/review/show/4913779109?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 3.9)
-- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget](https://www.goodreads.com/review/show/4913773415?utm_medium=api&utm_source=rss) by Nelson Dellis (⭐ 4.1)
-- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/4875856299?utm_medium=api&utm_source=rss) by Ray Kurzweil (⭐ 3.95)
+- [Inside Cyber Warfare: Mapping the Cyber Underworld](https://www.goodreads.com/review/show/4914566160?utm_medium=api&utm_source=rss) by Jeffrey Carr (⭐ 3.27)
+- [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.goodreads.com/review/show/4914565760?utm_medium=api&utm_source=rss) by Michael Hale Ligh (⭐ 4.21)
+- [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://www.goodreads.com/review/show/4914565521?utm_medium=api&utm_source=rss) by Justin Seitz (⭐ 3.91)
+- [Rtfm: Red Team Field Manual](https://www.goodreads.com/review/show/4914565187?utm_medium=api&utm_source=rss) by Ben Clark (⭐ 4)
+- [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.06)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
