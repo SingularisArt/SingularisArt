@@ -88,11 +88,11 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [Kaplan SAT Subject Test Physics 2015-2016 (Kaplan Test Prep)](https://www.goodreads.com/review/show/4913766974?utm_medium=api&utm_source=rss) by Kaplan Test Prep (⭐ )
+- [Schaum's Outline of College Physics (Schaum's Outline Series)](https://www.goodreads.com/review/show/4913764601?utm_medium=api&utm_source=rss) by Frederick J. Bueche (⭐ 3.83)
 - [Schaum&apos;s Outline of Calculus](https://www.goodreads.com/review/show/4911201331?utm_medium=api&utm_source=rss) by Frank Ayres Jr. (⭐ 3.93)
 - [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (⭐ 4.3)
 - [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (⭐ 3.73)
-- [The Speed Reading Book (Mind Set)](https://www.goodreads.com/review/show/4908445649?utm_medium=api&utm_source=rss) by Tony Buzan (⭐ 3.63)
-- [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/review/show/4908443530?utm_medium=api&utm_source=rss) by Joshua Foer (⭐ 3.86)
 <!-- GOODREADS-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
 
