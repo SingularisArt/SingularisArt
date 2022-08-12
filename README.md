@@ -75,11 +75,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
+- [Hamlet](https://www.goodreads.com/review/show/4913779990?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 4.02)
+- [King Lear](https://www.goodreads.com/review/show/4913779701?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 3.91)
+- [Macbeth](https://www.goodreads.com/review/show/4913779109?utm_medium=api&utm_source=rss) by William Shakespeare (⭐ 3.9)
+- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget](https://www.goodreads.com/review/show/4913773415?utm_medium=api&utm_source=rss) by Nelson Dellis (⭐ 4.1)
 - [How to Create a Mind: The Secret of Human Thought Revealed](https://www.goodreads.com/review/show/4875856299?utm_medium=api&utm_source=rss) by Ray Kurzweil (⭐ 3.95)
-- [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (⭐ 3.96)
-- [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐ 4.16)
-- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.55)
-- [Peacemaking Among Higher Order Primates](https://www.goodreads.com/review/show/4875823922?utm_medium=api&utm_source=rss) by Jordan B. Peterson (⭐ 3.56)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
