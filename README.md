@@ -52,9 +52,9 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#964](https://github.com/wbthomason/packer.nvim/issues/964) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-2. ❗️ Closed issue [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+1. ❗️ Opened issue [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
+2. ❗️ Closed issue [#964](https://github.com/wbthomason/packer.nvim/issues/964) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+3. ❗️ Closed issue [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 4. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 5. 🗣 Commented on [#3282](https://github.com/nvim-treesitter/nvim-treesitter/issues/3282) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
