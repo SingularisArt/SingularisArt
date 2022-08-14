@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
-2. ❗️ Closed issue [#130](https://github.com/wincent/wincent/issues/130) in [wincent/wincent](https://github.com/wincent/wincent)
-3. ❗️ Opened issue [#130](https://github.com/wincent/wincent/issues/130) in [wincent/wincent](https://github.com/wincent/wincent)
-4. ❗️ Opened issue [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
-5. ❗️ Closed issue [#964](https://github.com/wbthomason/packer.nvim/issues/964) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. 🗣 Commented on [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+2. ❗️ Opened issue [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+3. ❗️ Closed issue [#130](https://github.com/wincent/wincent/issues/130) in [wincent/wincent](https://github.com/wincent/wincent)
+4. ❗️ Opened issue [#130](https://github.com/wincent/wincent/issues/130) in [wincent/wincent](https://github.com/wincent/wincent)
+5. ❗️ Opened issue [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
 <!--END_SECTION:activity-->
 
 ---
