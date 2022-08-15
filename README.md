@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-2. 🗣 Commented on [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-3. ❗️ Opened issue [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-4. 💪 Opened PR [#1440](https://github.com/honza/vim-snippets/pull/1440) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
-5. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
+1. 🗣 Commented on [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+2. 💪 Opened PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+3. ❗️ Closed issue [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+4. 🗣 Commented on [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+5. ❗️ Opened issue [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
 <!--END_SECTION:activity-->
 
 ---
