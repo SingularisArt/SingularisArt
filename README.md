@@ -52,10 +52,10 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/AlphaTechnolog/nvcodark/issues/6) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-2. 🗣 Commented on [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-3. 💪 Opened PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-4. ❗️ Closed issue [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+1. ❗️ Opened issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+2. ❗️ Closed issue [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
+3. 🗣 Commented on [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
+4. ❗️ Opened issue [#6](https://github.com/AlphaTechnolog/nvcodark/issues/6) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
 5. 🗣 Commented on [#4](https://github.com/AlphaTechnolog/nvcodark/issues/4) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
 <!--END_SECTION:activity-->
 
