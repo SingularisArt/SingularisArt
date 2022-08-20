@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
-2. ❗️ Closed issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
-3. 🗣 Commented on [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
-4. ❗️ Opened issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
-5. ❗️ Closed issue [#129](https://github.com/wincent/wincent/issues/129) in [wincent/wincent](https://github.com/wincent/wincent)
+1. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+2. 🗣 Commented on [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
+3. ❗️ Closed issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+4. 🗣 Commented on [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+5. ❗️ Opened issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
 <!--END_SECTION:activity-->
 
 ---
