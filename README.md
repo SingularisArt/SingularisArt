@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/wincent/vim-university/pull/2) in [wincent/vim-university](https://github.com/wincent/vim-university)
-2. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-3. 🗣 Commented on [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
-4. ❗️ Closed issue [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
-5. 🗣 Commented on [#727](https://github.com/dillonzq/LoveIt/issues/727) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+1. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
+2. 💪 Opened PR [#48](https://github.com/MartinThoma/LaTeX-examples/pull/48) in [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
+3. 💪 Opened PR [#2](https://github.com/wincent/vim-university/pull/2) in [wincent/vim-university](https://github.com/wincent/vim-university)
+4. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+5. 🗣 Commented on [#521](https://github.com/L3MON4D3/LuaSnip/issues/521) in [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip)
 <!--END_SECTION:activity-->
 
 ---
