@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-2. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
-3. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
-4. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-5. 💪 Opened PR [#48](https://github.com/MartinThoma/LaTeX-examples/pull/48) in [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
+1. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+2. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+3. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
+4. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
+5. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
 <!--END_SECTION:activity-->
 
 ---
