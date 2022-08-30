@@ -54,10 +54,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-2. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-3. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
-4. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
-5. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
+2. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+3. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+4. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
+5. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
 <!--END_SECTION:activity-->
 
 ---
