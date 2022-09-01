@@ -91,7 +91,7 @@
 <!-- GOODREADS-LIST:START -->
 - [Kaplan SAT Subject Test Physics 2015-2016 (Kaplan Test Prep)](https://www.goodreads.com/review/show/4913766974?utm_medium=api&utm_source=rss) by Kaplan Test Prep (⭐ )
 - [Schaum's Outline of College Physics (Schaum's Outline Series)](https://www.goodreads.com/review/show/4913764601?utm_medium=api&utm_source=rss) by Frederick J. Bueche (⭐ 3.83)
-- [Schaum&apos;s Outline of Calculus](https://www.goodreads.com/review/show/4911201331?utm_medium=api&utm_source=rss) by Frank Ayres Jr. (⭐ 3.93)
+- [Schaum&apos;s Outline of Calculus](https://www.goodreads.com/review/show/4911201331?utm_medium=api&utm_source=rss) by Frank Ayres Jr. (⭐ 3.94)
 - [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (⭐ 4.29)
 - [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (⭐ 3.74)
 <!-- GOODREADS-LIST:END -->
