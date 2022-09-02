@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+1. ❗️ Opened issue [#3418](https://github.com/nvim-treesitter/nvim-treesitter/issues/3418) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 2. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-3. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-4. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
-5. 🗣 Commented on [#1390](https://github.com/honza/vim-snippets/issues/1390) in [honza/vim-snippets](https://github.com/honza/vim-snippets)
+3. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+4. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+5. 💪 Opened PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
 <!--END_SECTION:activity-->
 
 ---
