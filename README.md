@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#135](https://github.com/wincent/wincent/pull/135) in [wincent/wincent](https://github.com/wincent/wincent)
-2. ❗️ Opened issue [#3418](https://github.com/nvim-treesitter/nvim-treesitter/issues/3418) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-4. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-5. ❗️ Opened issue [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
+1. ❗️ Closed issue [#13](https://github.com/SingularisArt/DeathVim/issues/13) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+2. 🗣 Commented on [#13](https://github.com/SingularisArt/DeathVim/issues/13) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+3. 💪 Opened PR [#135](https://github.com/wincent/wincent/pull/135) in [wincent/wincent](https://github.com/wincent/wincent)
+4. ❗️ Opened issue [#3418](https://github.com/nvim-treesitter/nvim-treesitter/issues/3418) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
 <!--END_SECTION:activity-->
 
 ---
