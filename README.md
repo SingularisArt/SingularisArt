@@ -54,8 +54,8 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-2. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-3. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
+2. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+3. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
 4. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
 5. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
 <!--END_SECTION:activity-->
