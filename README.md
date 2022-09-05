@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
-2. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
+1. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+2. ❗️ Reopened issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
 3. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
-4. 🗣 Commented on [#668](https://github.com/derf/feh/issues/668) in [derf/feh](https://github.com/derf/feh)
-5. ❗️ Closed issue [#90](https://github.com/norcalli/nvim-colorizer.lua/issues/90) in [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua)
+4. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
+5. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
 <!--END_SECTION:activity-->
 
 ---
