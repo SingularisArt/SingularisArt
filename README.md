@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-2. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-3. ❗️ Closed issue [#14](https://github.com/SingularisArt/DeathVim/issues/14) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-4. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
-5. 🗣 Commented on [#12](https://github.com/NvChad/nvim-colorizer.lua/issues/12) in [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua)
+1. ❗️ Opened issue [#744](https://github.com/dillonzq/LoveIt/issues/744) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+2. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+3. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+4. ❗️ Closed issue [#14](https://github.com/SingularisArt/DeathVim/issues/14) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+5. 🗣 Commented on [#134](https://github.com/wincent/wincent/issues/134) in [wincent/wincent](https://github.com/wincent/wincent)
 <!--END_SECTION:activity-->
 
 ---
