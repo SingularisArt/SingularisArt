@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
-2. ❗️ Opened issue [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
-3. ❗️ Opened issue [#744](https://github.com/dillonzq/LoveIt/issues/744) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
-4. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
-5. 🗣 Commented on [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
+1. 🗣 Commented on [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+2. ❗️ Opened issue [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+3. ❗️ Opened issue [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+4. ❗️ Opened issue [#744](https://github.com/dillonzq/LoveIt/issues/744) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+5. ❗️ Closed issue [#10](https://github.com/SingularisArt/DeathVim/issues/10) in [SingularisArt/DeathVim](https://github.com/SingularisArt/DeathVim)
 <!--END_SECTION:activity-->
 
 ---
