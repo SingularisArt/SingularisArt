@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#687](https://github.com/dylanaraps/pywal/issues/687) in [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
-2. 🗣 Commented on [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
-3. ❗️ Opened issue [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
-4. ❗️ Opened issue [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
-5. ❗️ Opened issue [#744](https://github.com/dillonzq/LoveIt/issues/744) in [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)
+1. ❗️ Opened issue [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+2. ❗️ Opened issue [#687](https://github.com/dylanaraps/pywal/issues/687) in [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+3. 🗣 Commented on [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+4. ❗️ Opened issue [#1104](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1104) in [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim)
+5. ❗️ Opened issue [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
 <!--END_SECTION:activity-->
 
 ---
