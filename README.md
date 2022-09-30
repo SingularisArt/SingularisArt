@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+1. 🗣 Commented on [#101](https://github.com/j-hui/fidget.nvim/issues/101) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
 2. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 3. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-4. ❗️ Opened issue [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-5. ❗️ Opened issue [#687](https://github.com/dylanaraps/pywal/issues/687) in [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+4. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+5. ❗️ Opened issue [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 <!--END_SECTION:activity-->
 
 ---
