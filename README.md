@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/j-hui/fidget.nvim/issues/101) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
-2. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+1. 💪 Opened PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+2. 🗣 Commented on [#101](https://github.com/j-hui/fidget.nvim/issues/101) in [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim)
 3. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 4. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-5. ❗️ Opened issue [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+5. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 <!--END_SECTION:activity-->
 
 ---
