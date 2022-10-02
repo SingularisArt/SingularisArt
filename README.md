@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/LunarVim/starter.lvim/issues/2) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-2. 💪 Opened PR [#9](https://github.com/LunarVim/starter.lvim/pull/9) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+1. 💪 Opened PR [#3122](https://github.com/LunarVim/LunarVim/pull/3122) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+2. 🗣 Commented on [#5](https://github.com/LunarVim/starter.lvim/issues/5) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
 3. 🗣 Commented on [#2](https://github.com/LunarVim/starter.lvim/issues/2) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-4. 💪 Opened PR [#227](https://github.com/LunarVim/Neovim-from-scratch/pull/227) in [LunarVim/Neovim-from-scratch](https://github.com/LunarVim/Neovim-from-scratch)
-5. 💪 Opened PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+4. 💪 Opened PR [#9](https://github.com/LunarVim/starter.lvim/pull/9) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+5. 🗣 Commented on [#2](https://github.com/LunarVim/starter.lvim/issues/2) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
 <!--END_SECTION:activity-->
 
 ---
