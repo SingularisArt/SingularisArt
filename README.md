@@ -53,11 +53,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/LunarVim/starter.lvim/issues/22) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-2. ❗️ Closed issue [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-3. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-4. 🗣 Commented on [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-5. ❗️ Closed issue [#5](https://github.com/LunarVim/starter.lvim/issues/5) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+1. 🗣 Commented on [#32](https://github.com/LunarVim/starter.lvim/issues/32) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+2. 🗣 Commented on [#7](https://github.com/LunarVim/starter.lvim/issues/7) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+3. 💪 Opened PR [#32](https://github.com/LunarVim/starter.lvim/pull/32) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+4. 🗣 Commented on [#22](https://github.com/LunarVim/starter.lvim/issues/22) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+5. ❗️ Closed issue [#1135](https://github.com/LukeSmithxyz/voidrice/issues/1135) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
 <!--END_SECTION:activity-->
 
 ---
