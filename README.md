@@ -15,7 +15,7 @@
 
 <p align='center'>
    <a href='https://github.com/SingularisArt/Singularis' target='_blank'>
-      <img src='https://github.com/SingularisArt/Singularis/blob/master/media/main.png?raw=true' alt='dotfiles'/>
+      <img src='https://raw.githubusercontent.com/SingularisArt/media/master/main.png' alt='dotfiles'/>
    </a>
 </p>
 
