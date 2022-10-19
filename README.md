@@ -251,6 +251,12 @@
 
 ---
 
+### My Non-NFT Stuff
+
+[![@singularisart's Holopin board](https://holopin.me/singularisart)](https://holopin.io/@singularisart)
+
+---
+
 ### 🔒 GPG Public Key
 
 ```
