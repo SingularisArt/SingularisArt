@@ -54,10 +54,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
-2. ❗️ Closed issue [#34](https://github.com/LunarVim/starter.lvim/issues/34) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-3. 🗣 Commented on [#3301](https://github.com/LunarVim/LunarVim/issues/3301) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-4. 💪 Opened PR [#3301](https://github.com/LunarVim/LunarVim/pull/3301) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
-5. 🗣 Commented on [#32](https://github.com/LunarVim/starter.lvim/issues/32) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+2. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+3. ❗️ Closed issue [#34](https://github.com/LunarVim/starter.lvim/issues/34) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+4. 🗣 Commented on [#3301](https://github.com/LunarVim/LunarVim/issues/3301) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
+5. 💪 Opened PR [#3301](https://github.com/LunarVim/LunarVim/pull/3301) in [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 <!--END_SECTION:activity-->
 
 ---
