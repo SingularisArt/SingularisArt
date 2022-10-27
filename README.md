@@ -80,7 +80,7 @@
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.goodreads.com/review/show/4914565760?utm_medium=api&utm_source=rss) by Michael Hale Ligh (⭐ 4.21)
 - [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://www.goodreads.com/review/show/4914565521?utm_medium=api&utm_source=rss) by Justin Seitz (⭐ 3.91)
 - [Rtfm: Red Team Field Manual](https://www.goodreads.com/review/show/4914565187?utm_medium=api&utm_source=rss) by Ben Clark (⭐ 4.5)
-- [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.1)
+- [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.12)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
 
