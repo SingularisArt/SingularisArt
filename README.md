@@ -88,11 +88,11 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Kaplan SAT Subject Test Physics 2015-2016 (Kaplan Test Prep)](https://www.goodreads.com/review/show/4913766974?utm_medium=api&utm_source=rss) by Kaplan Test Prep (⭐ )
-- [Schaum's Outline of College Physics (Schaum's Outline Series)](https://www.goodreads.com/review/show/4913764601?utm_medium=api&utm_source=rss) by Frederick J. Bueche (⭐ 3.82)
-- [Schaum&apos;s Outline of Calculus](https://www.goodreads.com/review/show/4911201331?utm_medium=api&utm_source=rss) by Frank Ayres Jr. (⭐ 3.95)
-- [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (⭐ 4.3)
-- [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (⭐ 3.74)
+- [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.56)
+- [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (⭐ 3.96)
+- [The Complete Illustrated Novels of Sherlock Holmes: A Study in Scarlet, The Sign of the Four, The Hound of the Baskervilles & The Valley of Fear](https://www.goodreads.com/review/show/4898688764?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐ 4.45)
+- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget](https://www.goodreads.com/review/show/4913773415?utm_medium=api&utm_source=rss) by Nelson Dellis (⭐ 4.12)
+- [Linear Algebra For Dummies](https://www.goodreads.com/review/show/4875828344?utm_medium=api&utm_source=rss) by Mary Jane Sterling (⭐ 3.63)
 <!-- GOODREADS-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
 
