@@ -36,8 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Note Taking with LaTeX: Series](https://singularisart.github.io/note-taking-with-latex-intro/)
-- [Note Taking with LaTeX: Part I &lpar;NeoVim&rpar;](https://singularisart.github.io/note-taking-with-latex-part-1/)
+- [Intro to Note-Taking with LaTeX](https://singularisart.github.io/intro-to-note-taking-with-latex/)
 <!-- BLOG-POST-LIST:END -->
 [View More](https://damrah.netlify.app)
 
