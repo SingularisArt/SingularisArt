@@ -101,11 +101,11 @@
 ### 📚 Books I'v read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Secrets of Mental Math: The Mathemagician's Guide to Lightning Calculation and Amazing Math Tricks](https://www.goodreads.com/review/show/4908445099?utm_medium=api&utm_source=rss) by Arthur T. Benjamin (unrated)
-- [Learn the Art of Memory](https://www.goodreads.com/review/show/4908444431?utm_medium=api&utm_source=rss) by Artofmemory.com (unrated)
-- [The Kite Runner](https://www.goodreads.com/review/show/4869102463?utm_medium=api&utm_source=rss) by Khaled Hosseini (⭐⭐⭐⭐⭐)
-- [The Future of Leadership in the Age of AI: Preparing Your Leadership Skills for the AI-Shaped Future of Work (World of the Future)](https://www.goodreads.com/review/show/4875841452?utm_medium=api&utm_source=rss) by Marin Ivezic (unrated)
-- [Cracking Codes with Python: A Beginner's Guide to Cryptography and Computer Programming](https://www.goodreads.com/review/show/3455350896?utm_medium=api&utm_source=rss) by Al Sweigart (⭐⭐⭐⭐⭐)
+- [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (unrated)
+- [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/review/show/4908443530?utm_medium=api&utm_source=rss) by Joshua Foer (unrated)
+- [The Speed Reading Book (Mind Set)](https://www.goodreads.com/review/show/4908445649?utm_medium=api&utm_source=rss) by Tony Buzan (unrated)
+- [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (unrated)
+- [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
 
