@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
-2. 🗣 Commented on [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-3. ❗️ Closed issue [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-4. 🗣 Commented on [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+2. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+3. 🗣 Commented on [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+4. ❗️ Closed issue [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 5. 🗣 Commented on [#1501](https://github.com/SirVer/ultisnips/issues/1501) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 <!--END_SECTION:activity-->
 
