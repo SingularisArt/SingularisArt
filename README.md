@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-2. 🎉 Merged PR [#1](https://github.com/zap-zsh/singularisart-prompt/pull/1) in [zap-zsh/singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt)
-3. 🗣 Commented on [#25](https://github.com/zap-zsh/zap/issues/25) in [zap-zsh/zap](https://github.com/zap-zsh/zap)
-4. 🗣 Commented on [#47](https://github.com/LunarVim/starter.lvim/issues/47) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-5. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+1. ❗️ Opened issue [#70](https://github.com/dccsillag/magma-nvim/issues/70) in [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
+2. ❗️ Opened issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+3. 🎉 Merged PR [#1](https://github.com/zap-zsh/singularisart-prompt/pull/1) in [zap-zsh/singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt)
+4. 🗣 Commented on [#25](https://github.com/zap-zsh/zap/issues/25) in [zap-zsh/zap](https://github.com/zap-zsh/zap)
+5. 🗣 Commented on [#47](https://github.com/LunarVim/starter.lvim/issues/47) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
 <!--END_SECTION:activity-->
 
 ---
