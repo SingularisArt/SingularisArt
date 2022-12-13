@@ -52,9 +52,9 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-2. ❗️ Opened issue [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-3. ❗️ Opened issue [#70](https://github.com/dccsillag/magma-nvim/issues/70) in [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim)
+1. 💪 Opened PR [#1241](https://github.com/LukeSmithxyz/voidrice/pull/1241) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
+2. 🗣 Commented on [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+3. ❗️ Opened issue [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 4. ❗️ Opened issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 5. 🎉 Merged PR [#1](https://github.com/zap-zsh/singularisart-prompt/pull/1) in [zap-zsh/singularisart-prompt](https://github.com/zap-zsh/singularisart-prompt)
 <!--END_SECTION:activity-->
