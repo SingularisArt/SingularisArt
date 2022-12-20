@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
-2. ❗️ Opened issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
-3. 💪 Opened PR [#1241](https://github.com/LukeSmithxyz/voidrice/pull/1241) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
-4. 🗣 Commented on [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-5. ❗️ Opened issue [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+1. ❗️ Opened issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
+2. ❗️ Closed issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
+3. ❗️ Opened issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
+4. 💪 Opened PR [#1241](https://github.com/LukeSmithxyz/voidrice/pull/1241) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
+5. 🗣 Commented on [#3571](https://github.com/neomutt/neomutt/issues/3571) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 <!--END_SECTION:activity-->
 
 ---
