@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
-2. ❗️ Opened issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
-3. ❗️ Closed issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
-4. ❗️ Opened issue [#111](https://github.com/williamboman/mason-lspconfig.nvim/issues/111) in [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim)
-5. 💪 Opened PR [#1241](https://github.com/LukeSmithxyz/voidrice/pull/1241) in [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice)
+1. ❗️ Opened issue [#1777](https://github.com/sumneko/lua-language-server/issues/1777) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+2. ❗️ Closed issue [#800](https://github.com/sumneko/lua-language-server/issues/800) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+3. ❗️ Closed issue [#801](https://github.com/sumneko/lua-language-server/issues/801) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+4. ❗️ Closed issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
+5. ❗️ Opened issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
 <!--END_SECTION:activity-->
 
 ---
