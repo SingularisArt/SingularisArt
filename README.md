@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
-2. ❗️ Opened issue [#1777](https://github.com/sumneko/lua-language-server/issues/1777) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-3. ❗️ Closed issue [#800](https://github.com/sumneko/lua-language-server/issues/800) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-4. ❗️ Closed issue [#801](https://github.com/sumneko/lua-language-server/issues/801) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
-5. ❗️ Closed issue [#36](https://github.com/phillbush/xmenu/issues/36) in [phillbush/xmenu](https://github.com/phillbush/xmenu)
+1. ❗️ Opened issue [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+2. ❗️ Opened issue [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
+3. ❗️ Opened issue [#1777](https://github.com/sumneko/lua-language-server/issues/1777) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+4. ❗️ Closed issue [#800](https://github.com/sumneko/lua-language-server/issues/800) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
+5. ❗️ Closed issue [#801](https://github.com/sumneko/lua-language-server/issues/801) in [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server)
 <!--END_SECTION:activity-->
 
 ---
