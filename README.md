@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-2. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
-3. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
-4. ❗️ Opened issue [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-5. ❗️ Opened issue [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
+1. ❗️ Closed issue [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+2. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+3. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+4. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
+5. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
 <!--END_SECTION:activity-->
 
 ---
