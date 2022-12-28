@@ -52,10 +52,10 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-2. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+1. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+2. ❗️ Closed issue [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
 3. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-4. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
+4. 🗣 Commented on [#250](https://github.com/ray-x/navigator.lua/issues/250) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
 5. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
 <!--END_SECTION:activity-->
 
