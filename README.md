@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
-2. ❗️ Opened issue [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
-3. ❗️ Closed issue [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
-4. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
-5. 🗣 Commented on [#107](https://github.com/danymat/neogen/issues/107) in [danymat/neogen](https://github.com/danymat/neogen)
+1. ❗️ Opened issue [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
+2. 🗣 Commented on [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
+3. ❗️ Opened issue [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
+4. ❗️ Closed issue [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
+5. 🗣 Commented on [#22](https://github.com/ray-x/nvim/issues/22) in [ray-x/nvim](https://github.com/ray-x/nvim)
 <!--END_SECTION:activity-->
 
 ---
