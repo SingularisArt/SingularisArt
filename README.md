@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1466](https://github.com/SirVer/ultisnips/issues/1466) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-2. 🗣 Commented on [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
-3. ❗️ Closed issue [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
-4. 🗣 Commented on [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
-5. ❗️ Opened issue [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
+1. 🗣 Commented on [#21](https://github.com/tjdevries/config_manager/issues/21) in [tjdevries/config_manager](https://github.com/tjdevries/config_manager)
+2. ❗️ Closed issue [#1466](https://github.com/SirVer/ultisnips/issues/1466) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+3. 🗣 Commented on [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
+4. ❗️ Closed issue [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
+5. 🗣 Commented on [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
 <!--END_SECTION:activity-->
 
 ---
