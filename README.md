@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#11](https://github.com/GideonWolfe/Chameleon/pull/11) in [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon)
-2. 🗣 Commented on [#21](https://github.com/tjdevries/config_manager/issues/21) in [tjdevries/config_manager](https://github.com/tjdevries/config_manager)
-3. ❗️ Closed issue [#1466](https://github.com/SirVer/ultisnips/issues/1466) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-4. 🗣 Commented on [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
-5. ❗️ Closed issue [#1774](https://github.com/davatorium/rofi/issues/1774) in [davatorium/rofi](https://github.com/davatorium/rofi)
+1. ❗️ Opened issue [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
+2. ❌ Closed PR [#11](https://github.com/GideonWolfe/Chameleon/pull/11) in [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon)
+3. 🗣 Commented on [#21](https://github.com/tjdevries/config_manager/issues/21) in [tjdevries/config_manager](https://github.com/tjdevries/config_manager)
+4. ❗️ Closed issue [#1466](https://github.com/SirVer/ultisnips/issues/1466) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+5. 🗣 Commented on [#18](https://github.com/folke/LazyVim/issues/18) in [folke/LazyVim](https://github.com/folke/LazyVim)
 <!--END_SECTION:activity-->
 
 ---
