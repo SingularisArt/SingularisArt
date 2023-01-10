@@ -55,8 +55,8 @@
 1. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
 2. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
 3. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
-4. ❗️ Opened issue [#85](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/85) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
-5. 💪 Opened PR [#12](https://github.com/GideonWolfe/Chameleon/pull/12) in [GideonWolfe/Chameleon](https://github.com/GideonWolfe/Chameleon)
+4. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
+5. ❗️ Opened issue [#85](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/85) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
 <!--END_SECTION:activity-->
 
 ---
