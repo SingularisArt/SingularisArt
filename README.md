@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
-2. ❗️ Opened issue [#365](https://github.com/folke/lazy.nvim/issues/365) in [folke/lazy.nvim](https://github.com/folke/lazy.nvim)
+2. ❗️ Closed issue [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
 3. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
-4. 🗣 Commented on [#85](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/85) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
+4. ❗️ Opened issue [#365](https://github.com/folke/lazy.nvim/issues/365) in [folke/lazy.nvim](https://github.com/folke/lazy.nvim)
 5. 🗣 Commented on [#84](https://github.com/quangnguyen30192/cmp-nvim-ultisnips/issues/84) in [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips)
 <!--END_SECTION:activity-->
 
