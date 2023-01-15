@@ -52,10 +52,10 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/gennaro-tedesco/nvim-possession/issues/2) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
-2. 💪 Opened PR [#9](https://github.com/gennaro-tedesco/nvim-possession/pull/9) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
+1. 💪 Opened PR [#10](https://github.com/gennaro-tedesco/nvim-possession/pull/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
+2. ❌ Closed PR [#9](https://github.com/gennaro-tedesco/nvim-possession/pull/9) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
 3. 🗣 Commented on [#2](https://github.com/gennaro-tedesco/nvim-possession/issues/2) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
-4. 🗣 Commented on [#2](https://github.com/gennaro-tedesco/nvim-possession/issues/2) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
+4. 💪 Opened PR [#9](https://github.com/gennaro-tedesco/nvim-possession/pull/9) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
 5. 🗣 Commented on [#2](https://github.com/gennaro-tedesco/nvim-possession/issues/2) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
 <!--END_SECTION:activity-->
 
