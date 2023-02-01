@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/gennaro-tedesco/nvim-possession/issues/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
+1. ❌ Closed PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
 2. 🗣 Commented on [#10](https://github.com/gennaro-tedesco/nvim-possession/issues/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
-3. ❗️ Closed issue [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-4. 🗣 Commented on [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-5. ❗️ Opened issue [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+3. 🗣 Commented on [#10](https://github.com/gennaro-tedesco/nvim-possession/issues/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
+4. ❗️ Closed issue [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+5. 🗣 Commented on [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
 <!--END_SECTION:activity-->
 
 ---
