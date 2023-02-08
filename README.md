@@ -75,7 +75,7 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Inside Cyber Warfare: Mapping the Cyber Underworld](https://www.goodreads.com/review/show/4914566160?utm_medium=api&utm_source=rss) by Jeffrey Carr (⭐ 3.28)
+- [Inside Cyber Warfare: Mapping the Cyber Underworld](https://www.goodreads.com/review/show/4914566160?utm_medium=api&utm_source=rss) by Jeffrey Carr (⭐ 3.27)
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.goodreads.com/review/show/4914565760?utm_medium=api&utm_source=rss) by Michael Hale Ligh (⭐ 4.22)
 - [Rtfm: Red Team Field Manual](https://www.goodreads.com/review/show/4914565187?utm_medium=api&utm_source=rss) by Ben Clark (⭐ 4.33)
 - [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.2)
