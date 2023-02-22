@@ -91,7 +91,7 @@
 - [Neural Networks and Deep Learning](https://www.goodreads.com/review/show/4875842366?utm_medium=api&utm_source=rss) by Michael Nielsen (⭐ 4.56)
 - [Leonardo&apos;s Notebooks](https://www.goodreads.com/review/show/4875850763?utm_medium=api&utm_source=rss) by Leonardo da Vinci (⭐ 3.97)
 - [The Complete Illustrated Novels of Sherlock Holmes: A Study in Scarlet, The Sign of the Four, The Hound of the Baskervilles & The Valley of Fear](https://www.goodreads.com/review/show/4898688764?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐ 4.46)
-- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget](https://www.goodreads.com/review/show/4913773415?utm_medium=api&utm_source=rss) by Nelson Dellis (⭐ 4.14)
+- [Remember It!: The Names of People You Meet, All of Your Passwords, Where You Left Your Keys, and Everything Else You Tend to Forget](https://www.goodreads.com/review/show/4913773415?utm_medium=api&utm_source=rss) by Nelson Dellis (⭐ 4.13)
 - [Linear Algebra For Dummies](https://www.goodreads.com/review/show/4875828344?utm_medium=api&utm_source=rss) by Mary Jane Sterling (⭐ 3.65)
 <!-- GOODREADS-LIST:END -->
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
