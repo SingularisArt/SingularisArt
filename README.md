@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
-2. 🗣 Commented on [#10](https://github.com/gennaro-tedesco/nvim-possession/issues/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
-3. 🗣 Commented on [#10](https://github.com/gennaro-tedesco/nvim-possession/issues/10) in [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession)
-4. ❗️ Closed issue [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-5. 🗣 Commented on [#260](https://github.com/ray-x/navigator.lua/issues/260) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+1. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+2. ❌ Closed PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+3. ❌ Closed PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+4. ❌ Closed PR [#48](https://github.com/MartinThoma/LaTeX-examples/pull/48) in [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
+5. ❌ Closed PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
 <!--END_SECTION:activity-->
 
 ---
