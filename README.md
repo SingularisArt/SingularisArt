@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
-2. ❌ Closed PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-3. ❌ Closed PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
-4. ❌ Closed PR [#48](https://github.com/MartinThoma/LaTeX-examples/pull/48) in [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
-5. ❌ Closed PR [#668](https://github.com/derf/feh/pull/668) in [derf/feh](https://github.com/derf/feh)
+1. ❗️ Opened issue [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
+2. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+3. ❌ Closed PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
+4. ❌ Closed PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+5. ❌ Closed PR [#48](https://github.com/MartinThoma/LaTeX-examples/pull/48) in [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
 <!--END_SECTION:activity-->
 
 ---
