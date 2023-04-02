@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
-2. ❗️ Opened issue [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
-3. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
-4. ❌ Closed PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
-5. ❌ Closed PR [#67](https://github.com/ChristianChiarulli/nvim/pull/67) in [ChristianChiarulli/nvim](https://github.com/ChristianChiarulli/nvim)
+2. 🗣 Commented on [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
+3. ❗️ Opened issue [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
+4. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+5. ❌ Closed PR [#5](https://github.com/AlphaTechnolog/nvcodark/pull/5) in [AlphaTechnolog/nvcodark](https://github.com/AlphaTechnolog/nvcodark)
 <!--END_SECTION:activity-->
 
 ---
