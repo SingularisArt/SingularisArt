@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
-2. 🗣 Commented on [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
+1. 🗣 Commented on [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
+2. ❗️ Opened issue [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
 3. 🗣 Commented on [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
-4. ❗️ Opened issue [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
-5. ❌ Closed PR [#2](https://github.com/GideonWolfe/nvim-lua/pull/2) in [GideonWolfe/nvim-lua](https://github.com/GideonWolfe/nvim-lua)
+4. 🗣 Commented on [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
+5. ❗️ Opened issue [#71](https://github.com/islamic-network/api.alquran.cloud/issues/71) in [islamic-network/api.alquran.cloud](https://github.com/islamic-network/api.alquran.cloud)
 <!--END_SECTION:activity-->
 
 ---
