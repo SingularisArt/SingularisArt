@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align='center'>
-  <a href='https://damrah.netlify.app'>My Website </a> - <a href=''> My Resumé </a>
+  <a href='https://singularisart.github.io'>My Website </a> - <a href='https://github.com/SingularisArt/LaTeX/raw/master/resume/master.pdf'> My Resumé </a>
 </h2>
 
 <p align='center'>
@@ -62,12 +62,14 @@
 ---
 
 ### 📽️ Projects
+
 <!-- PROJECTS:START -->
 - [Dotfiles](https://github.com/SingularisArt/Singularis)
 - [DeathVim](https://github.com/SingularisArt/DeathVim)
 - [Website](https://github.com/SingularisArt/Website) ([Link](https://damrah.netlify.app))
 - [Notes](https://github.com/SingularisArt/notes)
 <!-- PROJECTS:END -->
+
 [View More](https://github.com/SingularisArt?tab=repositories)
 
 ---
@@ -98,7 +100,7 @@
 
 ---
 
-### 📚 Books I'v read
+### 📚 Books I've read
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (unrated)
@@ -140,20 +142,42 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Vim](https://img.shields.io/badge/vim-006400.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-006400.svg?style=for-the-badge&logo=bash&logoColor=white)
-![Solidity](https://img.shields.io/badge/solidity-808080.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-808080.svg?style=for-the-badge&logo=Solidity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=JSON&logoColor=%23F7DF1E)
 ![Yaml](https://img.shields.io/badge/yaml-000000.svg?style=for-the-badge&logo=YML&logoColor=%23F7DF1E)
 ![CSV](https://img.shields.io/badge/csv-000000.svg?style=for-the-badge&logo=CSV&logoColor=%23F7DF1E)
 
+#### Libraries
+
+##### Python
+
+![Django](https://img.shields.io/badge/django-09231f.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-e68a23.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-c90000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-ee4c2c.svg?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Sklearn](https://img.shields.io/badge/sklearn-3294c7.svg?style=for-the-badge&logo=Scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-100a50.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-4ba6c9.svg?style=for-the-badge&logo=Numpy&logoColor=white)
+![Scipy](https://img.shields.io/badge/scipy-0051a1.svg?style=for-the-badge&logo=Scipy&logoColor=white)
+
+##### JavaScript/Typescript
+
+![React](https://img.shields.io/badge/react-61dafb.svg?style=for-the-badge&logo=React&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-bd002e.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![Vue](https://img.shields.io/badge/vue-3fb27f.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Electron](https://img.shields.io/badge/electron-a0ebf9.svg?style=for-the-badge&logo=Electron&logoColor=white)
+
 #### 🗣️ Human Languages
 
 ![English](https://img.shields.io/badge/english-3670A0?style=for-the-badge&logoColor=ffdd54)
 ![Arabic](https://img.shields.io/badge/arabic-3670A0?style=for-the-badge&logoColor=ffdd54)
 ![Spanish](https://img.shields.io/badge/spanish-3670A0?style=for-the-badge&logoColor=ffdd54)
-![latin](https://img.shields.io/badge/latin-3670A0?style=for-the-badge&logoColor=ffdd54)
-![dutch](https://img.shields.io/badge/dutch-3670A0?style=for-the-badge&logoColor=ffdd54)
+![Hebrew](https://img.shields.io/badge/hebrew-3670A0?style=for-the-badge&logoColor=ffdd54)
+![Dutch](https://img.shields.io/badge/dutch-3670A0?style=for-the-badge&logoColor=ffdd54)
+![Latin](https://img.shields.io/badge/latin-3670A0?style=for-the-badge&logoColor=ffdd54)
 
 #### 📚 Knowledgable About
 
@@ -174,7 +198,7 @@
 ![Astronomy](https://img.shields.io/badge/astronomy-000000.svg?style=for-the-badge)
 ![Psychology](https://img.shields.io/badge/psychology-000000.svg?style=for-the-badge)
 
-### Game Development
+#### Game Development
 
 ![Pygame](https://img.shields.io/badge/pygame-57A143.svg?style=for-the-badge&logo=pygame&logoColor=white)
 ![Opengl](https://img.shields.io/badge/opengl-FFFF00.svg?style=for-the-badge&logo=opengl&logoColor=white)
