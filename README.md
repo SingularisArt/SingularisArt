@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/LunarVim/starter.lvim/pull/63) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-2. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-3. ❗️ Opened issue [#275](https://github.com/ray-x/navigator.lua/issues/275) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
-4. 🗣 Commented on [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
-5. ❗️ Opened issue [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
+1. ❗️ Opened issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 💪 Opened PR [#63](https://github.com/LunarVim/starter.lvim/pull/63) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+3. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
+4. ❗️ Opened issue [#275](https://github.com/ray-x/navigator.lua/issues/275) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+5. 🗣 Commented on [#2939](https://github.com/polybar/polybar/issues/2939) in [polybar/polybar](https://github.com/polybar/polybar)
 <!--END_SECTION:activity-->
 
 ---
