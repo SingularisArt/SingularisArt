@@ -128,9 +128,11 @@
 
 ![Python](https://img.shields.io/badge/python-3670a0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Cmake](https://img.shields.io/badge/cmake-01489d.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-800080.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-a8b9cc.svg?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-449a45.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
