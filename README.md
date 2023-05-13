@@ -118,7 +118,7 @@
 
 ### 📊 What I worked on this week
 
-![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=SingularisArt&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
+![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=SingularisArt&hide_title=true&hide_border=true&bg_color=00000000&text_color=777&range=last_7_days&layout=compact)
 
 ---
 
