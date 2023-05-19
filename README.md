@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❗️ Opened issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 💪 Opened PR [#63](https://github.com/LunarVim/starter.lvim/pull/63) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
-4. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
-5. ❗️ Opened issue [#275](https://github.com/ray-x/navigator.lua/issues/275) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+1. ❗️ Opened issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+2. ❗️ Closed issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. ❗️ Opened issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 💪 Opened PR [#63](https://github.com/LunarVim/starter.lvim/pull/63) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+5. 🗣 Commented on [#593](https://github.com/nvim-neorg/neorg/issues/593) in [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg)
 <!--END_SECTION:activity-->
 
 ---
