@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+1. ❗️ Closed issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 2. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 3. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-4. ❗️ Opened issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-5. ❗️ Closed issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+5. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 <!--END_SECTION:activity-->
 
 ---
