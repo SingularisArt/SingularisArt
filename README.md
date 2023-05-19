@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-2. ❗️ Opened issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
-3. ❗️ Closed issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ❗️ Opened issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 💪 Opened PR [#63](https://github.com/LunarVim/starter.lvim/pull/63) in [LunarVim/starter.lvim](https://github.com/LunarVim/starter.lvim)
+2. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+3. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+4. ❗️ Opened issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+5. ❗️ Closed issue [#2720](https://github.com/anuraghazra/github-readme-stats/issues/2720) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
