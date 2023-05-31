@@ -52,8 +52,8 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#477](https://github.com/folke/noice.nvim/issues/477) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
-2. ❗️ Closed issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
+1. ❗ Opened issue [#477](https://github.com/folke/noice.nvim/issues/477) in [folke/noice.nvim](https://github.com/folke/noice.nvim)
+2. 🔒 Closed issue [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 3. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 4. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
 5. 🗣 Commented on [#3867](https://github.com/neomutt/neomutt/issues/3867) in [neomutt/neomutt](https://github.com/neomutt/neomutt)
