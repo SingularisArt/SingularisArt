@@ -107,7 +107,7 @@
 <!-- GOODREADS-READ-LIST:START -->
 - [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (unrated)
 - [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/review/show/4908443530?utm_medium=api&utm_source=rss) by Joshua Foer (unrated)
-- [The Speed Reading Book (Mind Set)](https://www.goodreads.com/review/show/4908445649?utm_medium=api&utm_source=rss) by Tony Buzan (unrated)
+- [The Speed Reading Book](https://www.goodreads.com/review/show/4908445649?utm_medium=api&utm_source=rss) by Tony Buzan (unrated)
 - [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (unrated)
 - [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (unrated)
 <!-- GOODREADS-READ-LIST:END -->
