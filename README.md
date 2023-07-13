@@ -81,7 +81,7 @@
 - [Inside Cyber Warfare: Mapping the Cyber Underworld](https://www.goodreads.com/review/show/4914566160?utm_medium=api&utm_source=rss) by Jeffrey Carr (⭐ 3.27)
 - [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.goodreads.com/review/show/4914565760?utm_medium=api&utm_source=rss) by Michael Hale Ligh (⭐ 4.21)
 - [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.18)
-- [The Hacker Playbook: Practical Guide To Penetration Testing](https://www.goodreads.com/review/show/4914564665?utm_medium=api&utm_source=rss) by Peter Kim (⭐ 3.99)
+- [The Hacker Playbook: Practical Guide To Penetration Testing](https://www.goodreads.com/review/show/4914564665?utm_medium=api&utm_source=rss) by Peter Kim (⭐ 4)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
