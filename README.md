@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#174](https://github.com/NvChad/ui/issues/174) in [NvChad/ui](https://github.com/NvChad/ui)
-2. 🗣 Commented on [#73](https://github.com/TaDaa/vimade/issues/73#issuecomment-1681114222) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
-3. ❗ Opened issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
-4. 🗣 Commented on [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51#issuecomment-1666220072) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
-5. ❗ Opened issue [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
+1. 🔒 Closed issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
+2. ❗ Opened issue [#174](https://github.com/NvChad/ui/issues/174) in [NvChad/ui](https://github.com/NvChad/ui)
+3. 🗣 Commented on [#73](https://github.com/TaDaa/vimade/issues/73#issuecomment-1681114222) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
+4. ❗ Opened issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
+5. 🗣 Commented on [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51#issuecomment-1666220072) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
 <!--END_SECTION:activity-->
 
 ---
