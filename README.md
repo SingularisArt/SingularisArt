@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
-2. 🔒 Closed issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
-3. ❗ Opened issue [#174](https://github.com/NvChad/ui/issues/174) in [NvChad/ui](https://github.com/NvChad/ui)
-4. 🗣 Commented on [#73](https://github.com/TaDaa/vimade/issues/73#issuecomment-1681114222) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
-5. ❗ Opened issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
+1. 💪 Opened PR [#53312](https://github.com/dart-lang/sdk/pull/53312) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+2. ❗ Opened issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
+3. 🔒 Closed issue [#73](https://github.com/TaDaa/vimade/issues/73) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
+4. ❗ Opened issue [#174](https://github.com/NvChad/ui/issues/174) in [NvChad/ui](https://github.com/NvChad/ui)
+5. 🗣 Commented on [#73](https://github.com/TaDaa/vimade/issues/73#issuecomment-1681114222) in [TaDaa/vimade](https://github.com/TaDaa/vimade)
 <!--END_SECTION:activity-->
 
 ---
