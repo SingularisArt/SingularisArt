@@ -77,11 +77,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Rtfm: Red Team Field Manual](https://www.goodreads.com/review/show/4914565187?utm_medium=api&utm_source=rss) by Ben Clark (⭐ 4.6)
-- [Inside Cyber Warfare: Mapping the Cyber Underworld](https://www.goodreads.com/review/show/4914566160?utm_medium=api&utm_source=rss) by Jeffrey Carr (⭐ 3.27)
-- [Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code](https://www.goodreads.com/review/show/4914565760?utm_medium=api&utm_source=rss) by Michael Hale Ligh (⭐ 4.22)
-- [Blue Team Field Manual (BTFM) (RTFM)](https://www.goodreads.com/review/show/4914565016?utm_medium=api&utm_source=rss) by Alan J. White (⭐ 4.17)
-- [The Hacker Playbook: Practical Guide To Penetration Testing](https://www.goodreads.com/review/show/4914564665?utm_medium=api&utm_source=rss) by Peter Kim (⭐ 4.01)
+- [Data Structures Using C++](https://www.goodreads.com/review/show/5796135957?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.13)
+- [Java Programming: From Problem Analysis To Program Design](https://www.goodreads.com/review/show/5796135909?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.23)
+- [Data Structures Using Java](https://www.goodreads.com/review/show/5796135811?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.14)
+- [Fundamentals of Abstract Algebra](https://www.goodreads.com/review/show/5796135735?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 3.77)
+- [Zayd: The Rose that Bloomed in Captivity (Leading Companions of the Prophet)](https://www.goodreads.com/review/show/5796132210?utm_medium=api&utm_source=rss) by Reşit Haylamaz (⭐ 4.21)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
