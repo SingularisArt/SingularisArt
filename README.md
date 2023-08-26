@@ -105,11 +105,11 @@
 ### 📚 Books I've read
 
 <!-- GOODREADS-READ-LIST:START -->
-- [Leonardo da Vinci](https://www.goodreads.com/review/show/4875844673?utm_medium=api&utm_source=rss) by Walter Isaacson (unrated)
-- [Moonwalking with Einstein: The Art and Science of Remembering Everything](https://www.goodreads.com/review/show/4908443530?utm_medium=api&utm_source=rss) by Joshua Foer (unrated)
-- [The Speed Reading Book](https://www.goodreads.com/review/show/4908445649?utm_medium=api&utm_source=rss) by Tony Buzan (unrated)
-- [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (unrated)
-- [How to Prove It: A Structured Approach](https://www.goodreads.com/review/show/4911200636?utm_medium=api&utm_source=rss) by Daniel J. Velleman (unrated)
+- [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Dokus M. Kwakernaak (unrated)
+- [Dutch For Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
+- [Spanish Grammar For Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (unrated)
+- [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (unrated)
+- [Spanish Phrases For Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
