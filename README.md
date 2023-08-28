@@ -91,11 +91,11 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
+- [OCaml from the Very Beginning](https://www.goodreads.com/review/show/5802788520?utm_medium=api&utm_source=rss) by John Whitington (⭐ 3.75)
+- [The Rust Programming Language, 2nd Edition](https://www.goodreads.com/review/show/5802788154?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐ 4.67)
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/review/show/5796137195?utm_medium=api&utm_source=rss) by Rebecca Skloot (⭐ 4.1)
 - [Sharon and My Mother-in-Law: Ramallah Diaries](https://www.goodreads.com/review/show/5796136736?utm_medium=api&utm_source=rss) by Suad Amiry (⭐ 3.88)
 - [How to Prove It: A Structured Approach, 3rd Edition (Paperback)](https://www.goodreads.com/review/show/5796117409?utm_medium=api&utm_source=rss) by Kirael (⭐ )
-- [Number Theory (Dover Books on Mathematics)](https://www.goodreads.com/review/show/5796117012?utm_medium=api&utm_source=rss) by George E. Andrews (⭐ 4.03)
-- [Set Theory and its Philosophy: A Critical Introduction](https://www.goodreads.com/review/show/5796116733?utm_medium=api&utm_source=rss) by Michael D. Potter (⭐ 3.76)
 <!-- GOODREADS-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
