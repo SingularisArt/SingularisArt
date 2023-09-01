@@ -52,11 +52,11 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51#issuecomment-1692744108) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
-2. 🗣 Commented on [#118](https://github.com/dstein64/nvim-scrollview/issues/118#issuecomment-1692735234) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
-3. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
-4. ❗ Opened issue [#72](https://github.com/glepnir/nvim/issues/72) in [glepnir/nvim](https://github.com/glepnir/nvim)
-5. 🗣 Commented on [#53312](https://github.com/dart-lang/sdk/pull/53312#issuecomment-1692540487) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+1. ❗ Opened issue [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
+2. 🗣 Commented on [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51#issuecomment-1692744108) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
+3. 🗣 Commented on [#118](https://github.com/dstein64/nvim-scrollview/issues/118#issuecomment-1692735234) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
+4. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
+5. ❗ Opened issue [#72](https://github.com/glepnir/nvim/issues/72) in [glepnir/nvim](https://github.com/glepnir/nvim)
 <!--END_SECTION:activity-->
 
 ---
