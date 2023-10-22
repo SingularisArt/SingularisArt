@@ -52,9 +52,9 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442#issuecomment-1704747544) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
-2. ❗ Opened issue [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
-3. 🗣 Commented on [#51](https://github.com/kristijanhusak/vim-dadbod-completion/issues/51#issuecomment-1692744108) in [kristijanhusak/vim-dadbod-completion](https://github.com/kristijanhusak/vim-dadbod-completion)
+1. 🔒 Closed issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+2. 🗣 Commented on [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442#issuecomment-1704747544) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
+3. ❗ Opened issue [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
 4. 🗣 Commented on [#118](https://github.com/dstein64/nvim-scrollview/issues/118#issuecomment-1692735234) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
 5. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
 <!--END_SECTION:activity-->
