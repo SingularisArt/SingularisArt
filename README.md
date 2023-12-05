@@ -52,9 +52,9 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/pilgrimlyieu/Snippets/issues/8) in [pilgrimlyieu/Snippets](https://github.com/pilgrimlyieu/Snippets)
-2. 🔒 Closed issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-3. 🗣 Commented on [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442#issuecomment-1704747544) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
+1. 💪 Opened PR [#9](https://github.com/pilgrimlyieu/Snippets/pull/9) in [pilgrimlyieu/Snippets](https://github.com/pilgrimlyieu/Snippets)
+2. ❗ Opened issue [#8](https://github.com/pilgrimlyieu/Snippets/issues/8) in [pilgrimlyieu/Snippets](https://github.com/pilgrimlyieu/Snippets)
+3. 🔒 Closed issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 4. ❗ Opened issue [#442](https://github.com/rpearce/react-medium-image-zoom/issues/442) in [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
 5. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
 <!--END_SECTION:activity-->
