@@ -52,9 +52,9 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-2080390587) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
-2. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-1976098413) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
-3. ❗ Opened issue [#8](https://github.com/pilgrimlyieu/Snippets/issues/8) in [pilgrimlyieu/Snippets](https://github.com/pilgrimlyieu/Snippets)
+1. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-2106088107) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
+2. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-2080390587) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
+3. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-1976098413) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
 4. 🔒 Closed issue [#1507](https://github.com/SirVer/ultisnips/issues/1507) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 5. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
 <!--END_SECTION:activity-->
