@@ -106,10 +106,10 @@
 
 <!-- GOODREADS-READ-LIST:START -->
 - [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
-- [Dutch for Dummies (English and Dutch Edition)](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
+- [Dutch For Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
 - [Spanish Grammar For Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (unrated)
 - [Spanish Essentials For Dummies](https://www.goodreads.com/review/show/4869104117?utm_medium=api&utm_source=rss) by Gail Stein (unrated)
-- [Spanish Phrases for Dummies (English and Spanish Edition)](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (unrated)
+- [Spanish Phrases For Dummies](https://www.goodreads.com/review/show/4869104070?utm_medium=api&utm_source=rss) by Susana Wald (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
