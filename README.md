@@ -77,7 +77,7 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Data Structures Using C++](https://www.goodreads.com/review/show/5796135957?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.14)
+- [Data Structures Using C++](https://www.goodreads.com/review/show/5796135957?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.15)
 - [Java Programming: From Problem Analysis To Program Design](https://www.goodreads.com/review/show/5796135909?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.23)
 - [Data Structures Using Java](https://www.goodreads.com/review/show/5796135811?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.14)
 - [Fundamentals of Abstract Algebra](https://www.goodreads.com/review/show/5796135735?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 3.77)
