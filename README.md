@@ -94,7 +94,7 @@
 - [The Rust Programming Language, 2nd Edition](https://www.goodreads.com/review/show/5802788154?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐ 4.59)
 - [OCaml from the Very Beginning](https://www.goodreads.com/review/show/5802788520?utm_medium=api&utm_source=rss) by John Whitington (⭐ 3.8)
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/review/show/5796137195?utm_medium=api&utm_source=rss) by Rebecca Skloot (⭐ 4.11)
-- [Sharon and My Mother-in-Law: Ramallah Diaries](https://www.goodreads.com/review/show/5796136736?utm_medium=api&utm_source=rss) by Suad Amiry (⭐ 3.9)
+- [Sharon and My Mother-in-Law: Ramallah Diaries](https://www.goodreads.com/review/show/5796136736?utm_medium=api&utm_source=rss) by Suad Amiry (⭐ 3.91)
 - [How to Prove It: A Structured Approach, 3rd Edition (Paperback)](https://www.goodreads.com/review/show/5796117409?utm_medium=api&utm_source=rss) by Kirael (⭐ 4.5)
 <!-- GOODREADS-LIST:END -->
 
