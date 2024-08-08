@@ -77,11 +77,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
+- [Beyond Order: 12 More Rules For Life](https://www.goodreads.com/review/show/4875817718?utm_medium=api&utm_source=rss) by Jordan B. Peterson (⭐ 4.16)
 - [Data Structures Using C++](https://www.goodreads.com/review/show/5796135957?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.15)
 - [Java Programming: From Problem Analysis To Program Design](https://www.goodreads.com/review/show/5796135909?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.24)
 - [Data Structures Using Java](https://www.goodreads.com/review/show/5796135811?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.14)
 - [Fundamentals of Abstract Algebra](https://www.goodreads.com/review/show/5796135735?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 3.77)
-- [Zayd: The Rose that Bloomed in Captivity (Leading Companions of the Prophet)](https://www.goodreads.com/review/show/5796132210?utm_medium=api&utm_source=rss) by Reşit Haylamaz (⭐ 4.35)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
