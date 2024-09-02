@@ -105,11 +105,11 @@
 ### 📚 Books I've read
 
 <!-- GOODREADS-READ-LIST:START -->
+- [Speed Reading with the Right Brain: Learn to Read Ideas Instead of Just Words (Right Brain Speed Reading)](https://www.goodreads.com/review/show/4908465929?utm_medium=api&utm_source=rss) by David          Butler (unrated)
 - [The Complete Illustrated Novels of Sherlock Holmes: A Study in Scarlet, The Sign of the Four, The Hound of the Baskervilles & The Valley of Fear](https://www.goodreads.com/review/show/4898688764?utm_medium=api&utm_source=rss) by Arthur Conan Doyle (⭐⭐⭐⭐⭐)
 - [Latin For Dummies](https://www.goodreads.com/review/show/4869103424?utm_medium=api&utm_source=rss) by Clifford A. Hull (unrated)
 - [Dutch for Dummies (Voor Dummies)](https://www.goodreads.com/review/show/4869104511?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
 - [Dutch For Dummies](https://www.goodreads.com/review/show/4869104407?utm_medium=api&utm_source=rss) by Margreet Kwakernaak (unrated)
-- [Spanish Grammar For Dummies](https://www.goodreads.com/review/show/4869104140?utm_medium=api&utm_source=rss) by Cecie Kraynak (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=read)
