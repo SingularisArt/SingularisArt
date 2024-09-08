@@ -52,7 +52,7 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#304](https://github.com/ray-x/navigator.lua/issues/304) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
+1. 💪 Opened PR [#314](https://github.com/ray-x/navigator.lua/pull/314) in [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua)
 2. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-2106088107) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
 3. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-2080390587) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
 4. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-1976098413) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
