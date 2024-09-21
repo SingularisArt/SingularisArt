@@ -91,7 +91,7 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Introduction to Topology: Second Edition (Dover Books on Mathematics)](https://www.goodreads.com/review/show/5796116464?utm_medium=api&utm_source=rss) by Theodore W. Gamelin (⭐ )
+- [Introduction to Topology (Dover Books on Mathematics)](https://www.goodreads.com/review/show/5796116464?utm_medium=api&utm_source=rss) by Theodore W. Gamelin (⭐ 5)
 - [The Rust Programming Language, 2nd Edition](https://www.goodreads.com/review/show/5802788154?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐ 4.57)
 - [OCaml from the Very Beginning](https://www.goodreads.com/review/show/5802788520?utm_medium=api&utm_source=rss) by John Whitington (⭐ 3.75)
 - [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/review/show/5796137195?utm_medium=api&utm_source=rss) by Rebecca Skloot (⭐ 4.11)
