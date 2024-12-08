@@ -77,11 +77,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Getting the Love You Want: A Guide for Couples](https://www.goodreads.com/review/show/7066873813?utm_medium=api&utm_source=rss) by Harville Hendrix (⭐ 4.04)
-- [The Revolt of the Public and the Crisis of Authority](https://www.goodreads.com/review/show/7066872031?utm_medium=api&utm_source=rss) by Martin Gurri (⭐ 4.2)
-- [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting up a Generation for Failure](https://www.goodreads.com/review/show/7066870638?utm_medium=api&utm_source=rss) by Jonathan Haidt (⭐ 4.24)
-- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/review/show/7066869815?utm_medium=api&utm_source=rss) by Simon Sinek (⭐ 4.11)
-- [How to Win Friends & Influence People](https://www.goodreads.com/review/show/7066868867?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐ 4.22)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/review/show/7066898940?utm_medium=api&utm_source=rss) by Mark Manson (⭐ 3.88)
+- [The Blank Slate: The Modern Denial of Human Nature](https://www.goodreads.com/review/show/7066896245?utm_medium=api&utm_source=rss) by Steven Pinker (⭐ 4.08)
+- [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/7066895846?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐ 4.16)
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/7066895316?utm_medium=api&utm_source=rss) by Cal Newport (⭐ 4.17)
+- [Fear and Trembling](https://www.goodreads.com/review/show/7066894403?utm_medium=api&utm_source=rss) by Søren Kierkegaard (⭐ 4.02)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
