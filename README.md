@@ -77,11 +77,11 @@
 ### 📚 Books I'm planning to read
 
 <!-- GOODREADS-FUTURE-READ-LIST:START -->
-- [Beyond Order: 12 More Rules For Life](https://www.goodreads.com/review/show/4875817718?utm_medium=api&utm_source=rss) by Jordan B. Peterson (⭐ 4.15)
-- [Data Structures Using C++](https://www.goodreads.com/review/show/5796135957?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.14)
-- [Java Programming: From Problem Analysis To Program Design](https://www.goodreads.com/review/show/5796135909?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.22)
-- [Data Structures Using Java](https://www.goodreads.com/review/show/5796135811?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 4.12)
-- [Fundamentals of Abstract Algebra](https://www.goodreads.com/review/show/5796135735?utm_medium=api&utm_source=rss) by D.S. Malik (⭐ 3.77)
+- [Getting the Love You Want: A Guide for Couples](https://www.goodreads.com/review/show/7066873813?utm_medium=api&utm_source=rss) by Harville Hendrix (⭐ 4.04)
+- [The Revolt of the Public and the Crisis of Authority](https://www.goodreads.com/review/show/7066872031?utm_medium=api&utm_source=rss) by Martin Gurri (⭐ 4.2)
+- [The Coddling of the American Mind: How Good Intentions and Bad Ideas Are Setting up a Generation for Failure](https://www.goodreads.com/review/show/7066870638?utm_medium=api&utm_source=rss) by Jonathan Haidt (⭐ 4.24)
+- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/review/show/7066869815?utm_medium=api&utm_source=rss) by Simon Sinek (⭐ 4.11)
+- [How to Win Friends & Influence People](https://www.goodreads.com/review/show/7066868867?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐ 4.22)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
