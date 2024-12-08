@@ -91,11 +91,11 @@
 ### 📚 Books I'm reading
 
 <!-- GOODREADS-LIST:START -->
-- [Introduction to Topology (Dover Books on Mathematics)](https://www.goodreads.com/review/show/5796116464?utm_medium=api&utm_source=rss) by Theodore W. Gamelin (⭐ 5)
-- [The Rust Programming Language, 2nd Edition](https://www.goodreads.com/review/show/5802788154?utm_medium=api&utm_source=rss) by Steve Klabnik (⭐ 4.52)
-- [OCaml from the Very Beginning](https://www.goodreads.com/review/show/5802788520?utm_medium=api&utm_source=rss) by John Whitington (⭐ 3.78)
-- [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/review/show/5796137195?utm_medium=api&utm_source=rss) by Rebecca Skloot (⭐ 4.11)
-- [Sharon and My Mother-in-Law: Ramallah Diaries](https://www.goodreads.com/review/show/5796136736?utm_medium=api&utm_source=rss) by Suad Amiry (⭐ 3.91)
+- [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/7066833681?utm_medium=api&utm_source=rss) by Pierce Brown (⭐ 4.25)
+- [11/22/63](https://www.goodreads.com/review/show/7066832584?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.33)
+- [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/review/show/7066832316?utm_medium=api&utm_source=rss) by Douglas R. Hofstadter (⭐ 4.29)
+- [The Storied Life of A.J. Fikry](https://www.goodreads.com/review/show/7066831395?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐ 4)
+- [Billy Summers](https://www.goodreads.com/review/show/7066831067?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.12)
 <!-- GOODREADS-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
