@@ -52,10 +52,10 @@
 ### ⚡ My Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Hendrick12327-Hendo/Website/pull/3) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
-2. 💪 Opened PR [#2](https://github.com/Hendrick12327-Hendo/Website/pull/2) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
-3. 💪 Opened PR [#1](https://github.com/Hendrick12327-Hendo/Website/pull/1) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
-4. 🗣 Commented on [#1](https://github.com/SingularisArt/Singularis/issues/1#issuecomment-1976098413) in [SingularisArt/Singularis](https://github.com/SingularisArt/Singularis)
+1. 💪 Opened PR [#4](https://github.com/Hendrick12327-Hendo/Website/pull/4) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
+2. 💪 Opened PR [#3](https://github.com/Hendrick12327-Hendo/Website/pull/3) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
+3. 💪 Opened PR [#2](https://github.com/Hendrick12327-Hendo/Website/pull/2) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
+4. 💪 Opened PR [#1](https://github.com/Hendrick12327-Hendo/Website/pull/1) in [Hendrick12327-Hendo/Website](https://github.com/Hendrick12327-Hendo/Website)
 5. 🔒 Closed issue [#118](https://github.com/dstein64/nvim-scrollview/issues/118) in [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview)
 <!--END_SECTION:activity-->
 
