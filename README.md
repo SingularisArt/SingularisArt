@@ -95,7 +95,7 @@
 - [11/22/63](https://www.goodreads.com/review/show/7066832584?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.33)
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/review/show/7066832316?utm_medium=api&utm_source=rss) by Douglas R. Hofstadter (⭐ 4.29)
 - [The Storied Life of A.J. Fikry](https://www.goodreads.com/review/show/7066831395?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐ 4)
-- [Billy Summers](https://www.goodreads.com/review/show/7066831067?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.12)
+- [Billy Summers](https://www.goodreads.com/review/show/7066831067?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.11)
 <!-- GOODREADS-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=currently-reading)
