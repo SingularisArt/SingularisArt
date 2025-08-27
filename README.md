@@ -81,7 +81,7 @@
 - [The Blank Slate: The Modern Denial of Human Nature](https://www.goodreads.com/review/show/7066896245?utm_medium=api&utm_source=rss) by Steven Pinker (⭐ 4.08)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/review/show/7066895846?utm_medium=api&utm_source=rss) by Eckhart Tolle (⭐ 4.16)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/review/show/7066895316?utm_medium=api&utm_source=rss) by Cal Newport (⭐ 4.16)
-- [Fear and Trembling](https://www.goodreads.com/review/show/7066894403?utm_medium=api&utm_source=rss) by Søren Kierkegaard (⭐ 4.02)
+- [Fear and Trembling](https://www.goodreads.com/review/show/7066894403?utm_medium=api&utm_source=rss) by Søren Kierkegaard (⭐ 4.01)
 <!-- GOODREADS-FUTURE-READ-LIST:END -->
 
 [View More](https://www.goodreads.com/review/list/118737847-hashem?ref=nav_mybooks&shelf=to-read)
