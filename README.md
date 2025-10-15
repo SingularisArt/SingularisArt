@@ -92,7 +92,7 @@
 
 <!-- GOODREADS-LIST:START -->
 - [Red Rising (Red Rising Saga, #1)](https://www.goodreads.com/review/show/7066833681?utm_medium=api&utm_source=rss) by Pierce Brown (⭐ 4.25)
-- [11/22/63](https://www.goodreads.com/review/show/7066832584?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.33)
+- [11/22/63](https://www.goodreads.com/review/show/7066832584?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.34)
 - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/review/show/7066832316?utm_medium=api&utm_source=rss) by Douglas R. Hofstadter (⭐ 4.29)
 - [The Storied Life of A.J. Fikry](https://www.goodreads.com/review/show/7066831395?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐ 4.01)
 - [Billy Summers](https://www.goodreads.com/review/show/7066831067?utm_medium=api&utm_source=rss) by Stephen        King (⭐ 4.11)
